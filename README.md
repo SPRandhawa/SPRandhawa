@@ -1,16 +1,26 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SPRandhawa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+<h1 align="center">Hi 👋, I'm SPRandhawa</h1>
+<h3 align="center">Cybersecurity & Data Science Enthusiast</h3>
 
-<!--
-**SPRandhawa/SPRandhawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Future Ethical Hacker | 📊 Data Analyst | 💻 Tech Explorer
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">📝 Hobbies</h3>
+<p align="center">
+  🌐 Web Development | ☕ Learning Java | 🎮 Exploring Tech
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SPRandhawa&theme=tokyonight" alt="streak" />
+</p>
+<p align="center">
+  <img src="PASTE_YOUR_FLAG_LINK_HERE" alt="Flag Counter" />
+</p>
+
