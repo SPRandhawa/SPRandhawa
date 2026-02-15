@@ -29,12 +29,10 @@
 
 | [🛡️ Cybersecurity](https://github.com/SPRandhawa/cybersecurity-projects) | [🌐 Web Development](https://github.com/SPRandhawa/web-dev-projects) | [☕ Java Portfolio](https://github.com/SPRandhawa/java-codes-and-projects) | [📊 Data Analytics](https://github.com/SPRandhawa/data-analytics-projects) |
 | :---: | :---: | :---: | :---: |
-| <a href="https://github.com/SPRandhawa/cybersecurity-projects">
-  <img src="https://images.unsplash.com/photo-1581093588401-9c8e7bb61b39?crop=entropy&cs=tinysrgb&fit=max&w=400&q=80" width="200px" alt="Cybersecurity"/>
-</a>
- | <a href="https://github.com/SPRandhawa/web-dev-projects"><img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?crop=entropy&cs=tinysrgb&fit=max&w=400&q=80" width="200px" alt="Web Dev"/></a> | <a href="https://github.com/SPRandhawa/java-codes-and-projects"><img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?crop=entropy&cs=tinysrgb&fit=max&w=400&q=80" width="200px" alt="Java"/></a> | <a href="https://github.com/SPRandhawa/data-analytics-projects"><img src="https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&w=400&q=80" width="200px" alt="Data Science"/></a> |
+| <a href="https://github.com/SPRandhawa/cybersecurity-projects"><img src="https://images.unsplash.com/photo-1591015317302-c3130248e2b7?crop=entropy&cs=tinysrgb&fit=max&w=400&q=80" width="200px" alt="Cybersecurity"/></a> | <a href="https://github.com/SPRandhawa/web-dev-projects"><img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?crop=entropy&cs=tinysrgb&fit=max&w=400&q=80" width="200px" alt="Web Dev"/></a> | <a href="https://github.com/SPRandhawa/java-codes-and-projects"><img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?crop=entropy&cs=tinysrgb&fit=max&w=400&q=80" width="200px" alt="Java"/></a> | <a href="https://github.com/SPRandhawa/data-analytics-projects"><img src="https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&w=400&q=80" width="200px" alt="Data Science"/></a> |
 | `Pentesting` • `Sec+` | `React` • `UI/UX` | `Core Java` • `OOPs` | `Python` • `Pandas` |
 | [**Open Repo ↗**](https://github.com/SPRandhawa/cybersecurity-projects) | [**Open Repo ↗**](https://github.com/SPRandhawa/web-dev-projects) | [**Open Repo ↗**](https://github.com/SPRandhawa/java-codes-and-projects) | [**Open Repo ↗**](https://github.com/SPRandhawa/data-analytics-projects) |
 
 </div>
+<hr>
 
