@@ -75,17 +75,8 @@
 <h2 align="center"><b>🌍 Visitor Tracker</b>
 
 ![Visitor Tracker](https://sprandhawa.onrender.com/visitor.svg)</h2>
-
 <hr>
 <h2 align="center"><b>🔥 Advanced GitHub Stats</b></h2>
-
-<p align="center">
-  <!-- Encrypted Stats Card -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SPRandhawa&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SPRandhawa&layout=compact&theme=radical&hide_border=true" />
-
 <p align="center">
   <!-- GitHub Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SPRandhawa&theme=radical&hide_border=true" alt="GitHub Streak Card"/>
