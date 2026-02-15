@@ -77,6 +77,22 @@
 ![Visitor Tracker](https://sprandhawa.onrender.com/visitor.svg)</h2>
 
 <hr>
+---
+
+<h2 align="center">🛡️ Technical Performance Metrics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Main Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SPRandhawa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPRandhawa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 
 
 
