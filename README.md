@@ -75,8 +75,9 @@
 <h2 align="center"><b>🌍 Visitor Tracker</b></h2>
 
 <p align="center">
-  <img src="https://sprandhawa.onrender.com/visitor.svg" alt="Visitor Tracker"/>
+  <img src="https://sprandhawa.onrender.com/.svg" alt="Visitor Tracker"/>
 </p>
+<hr>
 
 
 
