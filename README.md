@@ -72,7 +72,17 @@
 </tr>
 </table>
 <hr>
-## 🌍 **Visitor Locations**
+<h2 align="center">🌍 Global Network Reach</h2>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SPRandhawa&theme=tokyonight" alt="Visitor Map" />
+  <img src="https://display-flags.pichat.eu/badge/SPRandhawa?style=flat-square" alt="Global Flags" />
 </p>
+
+<p align="center">
+  <img src="https://v-badge.up.railway.app/badge/SPRandhawa?style=flat-square&color=0078D4&label=TOTAL%20TRAFFIC" alt="Total Traffic" />
+</p>
+
+<p align="center">
+  <i>This map updates in real-time as users from the global cybersecurity community visit this profile.</i>
+</p>
+
