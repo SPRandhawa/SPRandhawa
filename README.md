@@ -10,8 +10,15 @@
 <hr />
 ## 📊 **Profile Stats**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SPRandhawa&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/SPRandhawa?label=Total%20Stars&style=for-the-badge&color=orange" alt="Total Stars" />
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=SPRandhawa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+  <!-- Total Stars -->
+  <img src="https://img.shields.io/github/stars/SPRandhawa?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Total Stars" />
+
+  <!-- Total Followers -->
   <img src="https://img.shields.io/github/followers/SPRandhawa?label=Followers&style=for-the-badge&color=brightgreen" alt="Followers" />
-  <img src="https://img.shields.io/badge/Security-Identity%20Verified-1E90FF?style=for-the-badge" alt="Identity Security" />
+
+  <!-- Identity/Security Badge -->
+  <img src="https://img.shields.io/badge/Identity%20Security-Verified-blue?style=for-the-badge" alt="Identity Security" />
 </p>
