@@ -72,18 +72,21 @@
 </tr>
 </table>
 <hr>
-<h2 align="center">🌍 Global Network Reach</h2>
+<h2 align="center">🌍 **Global Network Reach**</h2>
 
 <p align="center">
-  <img src="https://display-flags.pichat.eu/badge/SPRandhawa?style=flat-square" alt="Global Visitor Flags" />
+  <!-- Dynamic Country Flags -->
+  <img src="https://display-flags.pichat.eu/badge/SPRandhawa?style=for-the-badge" alt="Global Visitor Flags" />
 </p>
 
 <p align="center">
-  <img src="https://v-badge.up.railway.app/badge/SPRandhawa?style=flat-square&color=0078D4&label=TOTAL%20TRAFFIC" alt="Total Profile Traffic" />
+  <!-- Total Traffic Counter -->
+  <img src="https://v-badge.up.railway.app/badge/SPRandhawa?style=for-the-badge&color=0078D4&label=Total%20Traffic" alt="Total Profile Traffic" />
 </p>
 
 <p align="center">
-  <i>This section updates dynamically as visitors from different countries access this profile.</i>
+  <i>📈 This section updates dynamically as visitors from different countries access this profile.</i>
 </p>
+
 
 
