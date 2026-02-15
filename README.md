@@ -81,13 +81,10 @@
 
 <p align="center">
   <!-- Encrypted Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Encrypted Stats Card"/>
-</p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SPRandhawa&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
-<p align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPRandhawa&layout=compact&theme=radical&hide_border=true" alt="Top Languages Card"/>
-</p>
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SPRandhawa&layout=compact&theme=radical&hide_border=true" />
 
 <p align="center">
   <!-- GitHub Streak Card -->
