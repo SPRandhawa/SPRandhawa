@@ -72,53 +72,7 @@
 </tr>
 </table>
 <hr>
-<h2 align="center">🌍 Global Network Reach</h2>
-
-<!-- Country Origin Visualization -->
-<p align="center">
-  <img 
-    src="https://display-flags.pichat.eu/badge/SPRandhawa?style=for-the-badge&theme=dark" 
-    alt="Visitor Countries"
-  />
-</p>
-
-<!-- Total Profile Traffic -->
-<p align="center">
-  <img 
-    src="https://v-badge.up.railway.app/badge/SPRandhawa?style=for-the-badge&color=0A66C2&label=TOTAL%20PROFILE%20VISITS" 
-    alt="Total Profile Traffic"
-  />
-</p>
-
-<!-- Repository Traffic Counters -->
-<p align="center">
-  <img 
-    src="https://v-badge.up.railway.app/badge/SPRandhawa/cybersecurity-projects?style=for-the-badge&label=CYBERSECURITY%20REPO%20VIEWS" 
-    alt="Cybersecurity Repo Views"
-  />
-  <img 
-    src="https://v-badge.up.railway.app/badge/SPRandhawa/web-dev-projects?style=for-the-badge&label=WEB%20DEV%20REPO%20VIEWS" 
-    alt="Web Dev Repo Views"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://v-badge.up.railway.app/badge/SPRandhawa/java-codes-and-projects?style=for-the-badge&label=JAVA%20REPO%20VIEWS" 
-    alt="Java Repo Views"
-  />
-  <img 
-    src="https://v-badge.up.railway.app/badge/SPRandhawa/data-analytics-projects?style=for-the-badge&label=DATA%20ANALYTICS%20REPO%20VIEWS" 
-    alt="Data Analytics Repo Views"
-  />
-</p>
-
-<p align="center">
-  <i>
-    🌐 Traffic is dynamically tracked via IP-based geographic estimation.  
-    Country flags represent global visitor distribution in real time.
-  </i>
-</p>
+![Visitor Stats](https://sp-randhawa-visitor-tracker.onrender.com/stats-svg)
 
 
 
