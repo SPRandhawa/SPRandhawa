@@ -72,7 +72,9 @@
 </tr>
 </table>
 <hr>
+### 🌍 Visitor Stats
 ![Visitor Stats](https://sp-randhawa-visitor-tracker.onrender.com/stats-svg)
+
 
 
 
