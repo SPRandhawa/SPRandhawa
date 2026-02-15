@@ -10,6 +10,8 @@
 <hr />
 ---
 
+---
+
 <h2 align="center">📊 Global Command Center</h2>
 
 <div align="center">
