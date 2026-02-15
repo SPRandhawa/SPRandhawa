@@ -72,11 +72,10 @@
 </tr>
 </table>
 <hr>
-## 🌍 Global Network Reach
+### 🌍 Visitor Tracker
+[Visit My Tracker](https://sprandhawa.onrender.com/)
 
-<p align="center">
-  <img src="https://your-render-app-name.onrender.com/" alt="Global Visitor Stats" />
-</p>
+
 
 
 
