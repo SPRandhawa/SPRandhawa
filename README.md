@@ -72,8 +72,27 @@
 </tr>
 </table>
 <hr>
-### 🌍 Visitor Stats
-![Visitor Stats](https://sprandhawa.onrender.com/stats-svg)
+<h2 align="center"><b>🌍 Visitor Tracker</b></h2>
+
+<p align="center">
+  <a href="https://sprandhawa.onrender.com/" style="text-decoration:none;">
+    <span style="background-color:#1e1e2f; color:#ffffff; padding:6px 12px; border-radius:8px; font-weight:bold; font-family:Arial, sans-serif;">
+      View Live Tracker
+    </span>
+  </a>
+</p>
+
+<p align="center">
+  
+| Country       | Flag | Views |
+|---------------|------|-------|
+| India         | 🇮🇳   |       |
+| USA           | 🇺🇸   |       |
+| Canada        | 🇨🇦   |       |
+| New Zealand   | 🇳🇿   |       |
+| ...           | ...  |       |
+
+</p>
 
 
 
