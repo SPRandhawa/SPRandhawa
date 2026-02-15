@@ -14,17 +14,19 @@
 <hr />
 ---
 
-<h2 align="center">📊 Global Profile Analytics</h2>
+<h2 align="center">📊 Global Command Center</h2>
+
+<div align="center">
+
+| 👁️ Profile Hits | ⭐ Total Stars | 👥 Followers | 📦 Total Repos |
+| :---: | :---: | :---: | :---: |
+| <img src="https://komarev.com/ghpvc/?username=SPRandhawa&label=VIEWS&color=0078D4&style=flat-square&logo=google-cloud&logoColor=white" /> | <img src="https://img.shields.io/github/stars/SPRandhawa?label=STARS&style=flat-square&color=FFD700&logo=github&logoColor=black" /> | <img src="https://img.shields.io/github/followers/SPRandhawa?label=NETWORK&style=flat-square&color=6e5494&logo=github&logoColor=white" /> | <img src="https://img.shields.io/github/repos/count/SPRandhawa?label=REPOSITORIES&style=flat-square&color=2ea44f&logo=git&logoColor=white" /> |
+
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SPRandhawa&label=LIVE%20VISITORS&color=0e75b6&style=flat-square&logo=git&logoColor=white" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/SPRandhawa?label=GLOBAL%20STARS&style=flat-square&color=yellow&logo=github&logoColor=white" alt="Total Stars" />
-  <img src="https://img.shields.io/github/followers/SPRandhawa?label=FOLLOWERS&style=flat-square&color=6e5494&logo=github&logoColor=white" alt="Followers" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20Contributor-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security-Verified-blue?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Identity-Verified%20Developer-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-Authorized-red?style=for-the-badge&logo=hack-the-box&logoColor=white" />
 </p>
 
 ---
