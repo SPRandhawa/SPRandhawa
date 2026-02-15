@@ -15,6 +15,10 @@
 <h2 align="center">📊 Profile Stats</h2>
 
 <p align="center">
-  <!-- GitHub Stats Card (Dynamic, works correctly) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <!-- Total Profile Views (static, non-clickable) -->
+  <img src="https://img.shields.io/badge/Profile%20Views-0000-blue?style=for-the-badge" alt="Total Profile Views" />
+
+  <!-- Total Stars dynamically from GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
