@@ -5,50 +5,71 @@
   🚀 Future Ethical Hacker | 📊 Data Analyst | 💻 Tech Explorer
 </p>
 
+<p align="center">
+  <img src="https://komarev.com" alt="Profile Views" />
+  <img src="https://img.shields.io" alt="Total Stars" />
+  <img src="https://visitor-badge.laobi.icu" alt="Unique Visitors" />
+</p>
+
 <h3 align="center">📝 Hobbies</h3>
 <p align="center">
   🌐 Web Development | ☕ Learning Java | 🎮 Exploring Tech
 </p>
 
-<hr />
+---
 
-## 📊 Profile Stats
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SPRandhawa&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/SPRandhawa?style=social" alt="Total Stars" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SPRandhawa.SPRandhawa&style=flat-square" alt="Total Profile Views" />
+  <img src="https://github-readme-stats.vercel.app" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com" width="48%" />
 </p>
 
-## 🌟 Stars by Projects
 <p align="center">
-  <img src="https://img.shields.io/github/stars/SPRandhawa/cybersecurity-projects?style=social" alt="Stars – Cybersecurity" />
-  <img src="https://img.shields.io/github/stars/SPRandhawa/web-dev-projects?style=social" alt="Stars – Web Dev" />
-  <img src="https://img.shields.io/github/stars/SPRandhawa/java-codes-and-projects?style=social" alt="Stars – Java Code" />
-  <img src="https://img.shields.io/github/stars/SPRandhawa/data-analytics-projects?style=social" alt="Stars – Data Analysis" />
+  <img src="https://github-readme-stats.vercel.app" width="400px" />
 </p>
 
-## 👀 Views by Projects
+---
+
+## 🌟 Project Performance
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SPRandhawa.cybersecurity-projects&style=flat-square" alt="Cybersecurity Repo Views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SPRandhawa.web-dev-projects&style=flat-square" alt="Web Development Repo Views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SPRandhawa.java-codes-and-projects&style=flat-square" alt="Java Code Repo Views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SPRandhawa.data-analytics-projects&style=flat-square" alt="Data Analysis Repo Views" />
+  <b>Cybersecurity Projects</b><br>
+  <img src="https://img.shields.io" /> 
+  <img src="https://visitor-badge.laobi.icu" />
 </p>
 
-## 🌍 Visitor Locations
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <b>Web Development</b><br>
+  <img src="https://img.shields.io" /> 
+  <img src="https://visitor-badge.laobi.icu" />
 </p>
 
-## 🔗 Projects
 <p align="center">
-  <a href="https://github.com/SPRandhawa/cybersecurity-projects"><b>💻 Cybersecurity Projects</b></a> |
-  <a href="https://github.com/SPRandhawa/web-dev-projects"><b>🌐 Web Development Projects</b></a> |
-  <a href="https://github.com/SPRandhawa/java-codes-and-projects"><b>☕ Java Projects</b></a> |
-  <a href="https://github.com/SPRandhawa/data-analytics-projects"><b>📊 Data Analysis Projects</b></a>
+  <b>Java Development</b><br>
+  <img src="https://img.shields.io" /> 
+  <img src="https://visitor-badge.laobi.icu" />
 </p>
 
-## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SPRandhawa&theme=tokyonight" alt="GitHub Streak Stats" />
+  <b>Data Analytics</b><br>
+  <img src="https://img.shields.io" /> 
+  <img src="https://visitor-badge.laobi.icu" />
+</p>
+
+---
+
+## 🌍 Visitor Map
+<p align="center">
+  <a href="https://info.flagcounter.com">
+    <img src="https://s01.flagcounter.com" alt="Flag Counter" border="0">
+  </a>
+</p>
+
+---
+
+## 🔗 Quick Access
+<p align="center">
+  <a href="https://github.com/SPRandhawa/cybersecurity-projects" style="text-decoration:none"><b>💻 Cybersecurity</b></a> | 
+  <a href="https://github.com/SPRandhawa/web-dev-projects" style="text-decoration:none"><b>🌐 Web Development</b></a> | 
+  <a href="https://github.com" style="text-decoration:none"><b>☕ Java Projects</b></a> | 
+  <a href="https://github.com" style="text-decoration:none"><b>📊 Data Analysis</b></a>
 </p>
