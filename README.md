@@ -23,18 +23,14 @@
   <img src="https://img.shields.io/badge/Identity%20Security-Verified-blue?style=for-the-badge" alt="Identity Security" />
 </p>
 <hr>
----
-
 <h2 align="center">🚀 Featured Project Gallery</h2>
 
 <div align="center">
 
-| [**Cybersecurity**](https://github.com/SPRandhawa/cybersecurity-projects) | [**Web Development**](https://github.com/SPRandhawa/web-dev-projects) | [**Java Portfolio**](https://github.com/SPRandhawa/java-codes-and-projects) | [**Data Analytics**](https://github.com/SPRandhawa/data-analytics-projects) |
+| [🛡️ Cybersecurity](https://github.com/SPRandhawa/cybersecurity-projects) | [🌐 Web Development](https://github.com/SPRandhawa/web-dev-projects) | [☕ Java Portfolio](https://github.com/SPRandhawa/java-codes-and-projects) | [📊 Data Analytics](https://github.com/SPRandhawa/data-analytics-projects) |
 | :---: | :---: | :---: | :---: |
-| <a href="https://github.com/SPRandhawa/cybersecurity-projects"><img src="https://via.placeholder.com/300x150/1E90FF/FFFFFF?text=Security+Shield" width="100%" /></a> | <a href="https://github.com/SPRandhawa/web-dev-projects"><img src="https://via.placeholder.com/300x150/32CD32/FFFFFF?text=Modern+Web" width="100%" /></a> | <a href="https://github.com/SPRandhawa/java-codes-and-projects"><img src="https://via.placeholder.com/300x150/FF8C00/FFFFFF?text=Java+Console" width="100%" /></a> | <a href="https://github.com/SPRandhawa/data-analytics-projects"><img src="https://via.placeholder.com/300x150/8A2BE2/FFFFFF?text=Data+Insights" width="100%" /></a> |
-| `Vulnerability Scanning` <br> `Ethical Hacking` | `Responsive Design` <br> `UI/UX Portfolio` | `OOP Concepts` <br> `Algorithm Logic` | `Statistical Models` <br> `Visualizations` |
-| [**View Repo ↗**](https://github.com/SPRandhawa/cybersecurity-projects) | [**View Repo ↗**](https://github.com/SPRandhawa/web-dev-projects) | [**View Repo ↗**](https://github.com/SPRandhawa/java-codes-and-projects) | [**View Repo ↗**](https://github.com/SPRandhawa/data-analytics-projects) |
+| <a href="https://github.com/SPRandhawa/cybersecurity-projects"><img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=300&h=150&fit=crop" width="200px" alt="Cybersecurity"/></a> | <a href="https://github.com/SPRandhawa/web-dev-projects"><img src="https://images.unsplash.com/photo-1547658719-da2b51169166?w=300&h=150&fit=crop" width="200px" alt="Web Dev"/></a> | <a href="https://github.com/SPRandhawa/java-codes-and-projects"><img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=300&h=150&fit=crop" width="200px" alt="Java"/></a> | <a href="https://github.com/SPRandhawa/data-analytics-projects"><img src="https://images.unsplash.com/photo-1551288049-bbda48658a7d?w=300&h=150&fit=crop" width="200px" alt="Data Science"/></a> |
+| `Pentesting` • `Sec+` | `React` • `UI/UX` | `Core Java` • `OOPs` | `Python` • `Pandas` |
+| [**Open Repo ↗**](https://github.com/SPRandhawa/cybersecurity-projects) | [**Open Repo ↗**](https://github.com/SPRandhawa/web-dev-projects) | [**Open Repo ↗**](https://github.com/SPRandhawa/java-codes-and-projects) | [**Open Repo ↗**](https://github.com/SPRandhawa/data-analytics-projects) |
 
 </div>
-
----
