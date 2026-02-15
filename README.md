@@ -25,10 +25,18 @@
 <hr>
 ## 🔗 **Projects**
 <p align="center">
-  <a href="https://github.com/SPRandhawa/cybersecurity-projects"><b>💻 Cybersecurity Projects</b></a><br>
-  <a href="https://github.com/SPRandhawa/web-dev-projects"><b>🌐 Web Development Projects</b></a><br>
-  <a href="https://github.com/SPRandhawa/java-codes-and-projects"><b>☕ Java Projects</b></a><br>
-  <a href="https://github.com/SPRandhawa/data-analytics-projects"><b>📊 Data Analysis Projects</b></a>
+  <a href="https://github.com/SPRandhawa/cybersecurity-projects">
+    <img src="https://img.shields.io/badge/💻-Cybersecurity%20Projects-blue?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/SPRandhawa/web-dev-projects">
+    <img src="https://img.shields.io/badge/🌐-Web%20Development%20Projects-green?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/SPRandhawa/java-codes-and-projects">
+    <img src="https://img.shields.io/badge/☕-Java%20Projects-orange?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/SPRandhawa/data-analytics-projects">
+    <img src="https://img.shields.io/badge/📊-Data%20Analysis%20Projects-purple?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 <hr>
