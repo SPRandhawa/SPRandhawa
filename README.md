@@ -8,7 +8,7 @@
   🌐 Web Development | ☕ Learning Java | 🎮 Exploring Tech
 </p>
 <hr />
-## 📊 **Profile Stats**
+<h2 align="center">📊 Global Command Center</h2>
 <p align="center">
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=SPRandhawa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
