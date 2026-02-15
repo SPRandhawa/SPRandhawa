@@ -75,14 +75,15 @@
 <h2 align="center">🌍 Global Network Reach</h2>
 
 <p align="center">
-  <img src="https://display-flags.pichat.eu/badge/SPRandhawa?style=flat-square" alt="Global Flags" />
+  <img src="https://display-flags.pichat.eu/badge/SPRandhawa?style=flat-square" alt="Global Visitor Flags" />
 </p>
 
 <p align="center">
-  <img src="https://v-badge.up.railway.app/badge/SPRandhawa?style=flat-square&color=0078D4&label=TOTAL%20TRAFFIC" alt="Total Traffic" />
+  <img src="https://v-badge.up.railway.app/badge/SPRandhawa?style=flat-square&color=0078D4&label=TOTAL%20TRAFFIC" alt="Total Profile Traffic" />
 </p>
 
 <p align="center">
-  <i>This map updates in real-time as users from the global cybersecurity community visit this profile.</i>
+  <i>This section updates dynamically as visitors from different countries access this profile.</i>
 </p>
+
 
