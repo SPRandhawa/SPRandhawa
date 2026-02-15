@@ -22,3 +22,20 @@
   <!-- Identity/Security Badge -->
   <img src="https://img.shields.io/badge/Identity%20Security-Verified-blue?style=for-the-badge" alt="Identity Security" />
 </p>
+<hr>
+## 🔗 **Projects**
+<p align="center">
+  <a href="https://github.com/SPRandhawa/cybersecurity-projects">
+    <b>💻 Cybersecurity Projects</b>
+  </a> &nbsp;|&nbsp;
+  <a href="https://github.com/SPRandhawa/web-dev-projects">
+    <b>🌐 Web Development Projects</b>
+  </a> &nbsp;|&nbsp;
+  <a href="https://github.com/SPRandhawa/java-codes-and-projects">
+    <b>☕ Java Projects</b>
+  </a> &nbsp;|&nbsp;
+  <a href="https://github.com/SPRandhawa/data-analytics-projects">
+    <b>📊 Data Analysis Projects</b>
+  </a>
+</p>
+<hr>
