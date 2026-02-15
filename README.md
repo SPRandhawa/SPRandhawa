@@ -15,11 +15,9 @@
 <h2 align="center">📊 Profile Stats</h2>
 
 <p align="center">
-  <!-- Total Profile Views -->
-  <img src="https://img.shields.io/badge/Profile%20Views-1234-blue?style=for-the-badge" alt="Total Profile Views" />
+  <!-- Total Stars dynamically from GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&count_private=true&theme=tokyonight&hide=issues,contribs&title_color=ffffff&icon_color=ffdd00&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
 
-  <!-- Total Stars Across All Repos -->
-  <img src="https://img.shields.io/badge/Total%20Stars-5678-yellow?style=for-the-badge" alt="Total Stars" />
+  <!-- Total Profile Views placeholder (we'll update later) -->
+  <img src="https://img.shields.io/badge/Profile%20Views----?style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
-
-
