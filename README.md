@@ -72,9 +72,9 @@
 </tr>
 </table>
 <hr>
-<h2 align="center"><b>🌍 Visitor Tracker</b></h2>
+<h2 align="center"><b>🌍 Visitor Tracker</b>
 
-![Visitor Tracker](https://sprandhawa.onrender.com/visitor.svg)
+![Visitor Tracker](https://sprandhawa.onrender.com/visitor.svg)</h2>
 
 <hr>
 
