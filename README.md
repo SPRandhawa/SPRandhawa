@@ -72,8 +72,15 @@
 </tr>
 </table>
 <hr>
-### 🌍 Visitor Tracker
-[Visit My Tracker](https://sprandhawa.onrender.com/)
+<h2 align="center">🌍 Visitor Tracker</h2>
+
+<p align="center">
+  <a href="https://sprandhawa.onrender.com/" style="text-decoration:none;">
+    <span style="background-color:#1e1e2f; color:#ffffff; padding:6px 12px; border-radius:8px; font-weight:bold; font-family:Arial, sans-serif;">
+      View Live Tracker
+    </span>
+  </a>
+</p>
 
 
 
