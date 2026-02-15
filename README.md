@@ -36,23 +36,10 @@
 </div>
 <hr>
 ## 🌟 **Stars & Views by Projects**
-<p align="center">
-  <!-- Cybersecurity Projects -->
-  <img src="https://img.shields.io/github/stars/SPRandhawa/cybersecurity-projects?label=⭐%20Stars&style=for-the-badge&color=yellow" alt="Cybersecurity Stars" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SPRandhawa.cybersecurity-projects&label=👀%20Views&style=for-the-badge&color=blue" alt="Cybersecurity Views" />
-  <br><br>
 
-  <!-- Web Development Projects -->
-  <img src="https://img.shields.io/github/stars/SPRandhawa/web-dev-projects?label=⭐%20Stars&style=for-the-badge&color=yellow" alt="Web Dev Stars" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SPRandhawa.web-dev-projects&label=👀%20Views&style=for-the-badge&color=blue" alt="Web Dev Views" />
-  <br><br>
-
-  <!-- Java Projects -->
-  <img src="https://img.shields.io/github/stars/SPRandhawa/java-codes-and-projects?label=⭐%20Stars&style=for-the-badge&color=yellow" alt="Java Stars" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SPRandhawa.java-codes-and-projects&label=👀%20Views&style=for-the-badge&color=blue" alt="Java Views" />
-  <br><br>
-
-  <!-- Data Analysis Projects -->
-  <img src="https://img.shields.io/github/stars/SPRandhawa/data-analytics-projects?label=⭐%20Stars&style=for-the-badge&color=yellow" alt="Data Analysis Stars" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SPRandhawa.data-analytics-projects&label=👀%20Views&style=for-the-badge&color=blue" alt="Data Analysis Views" />
-</p>
+| Repository | ⭐ Stars | 👀 Views |
+|------------|---------|----------|
+| [💻 Cybersecurity Projects](https://github.com/SPRandhawa/cybersecurity-projects) | ![Stars](https://img.shields.io/github/stars/SPRandhawa/cybersecurity-projects?style=flat&color=yellow) | ![Views](https://visitor-badge.laobi.icu/badge?page_id=SPRandhawa.cybersecurity-projects&style=flat&color=blue) |
+| [🌐 Web Development Projects](https://github.com/SPRandhawa/web-dev-projects) | ![Stars](https://img.shields.io/github/stars/SPRandhawa/web-dev-projects?style=flat&color=yellow) | ![Views](https://visitor-badge.laobi.icu/badge?page_id=SPRandhawa.web-dev-projects&style=flat&color=blue) |
+| [☕ Java Projects](https://github.com/SPRandhawa/java-codes-and-projects) | ![Stars](https://img.shields.io/github/stars/SPRandhawa/java-codes-and-projects?style=flat&color=yellow) | ![Views](https://visitor-badge.laobi.icu/badge?page_id=SPRandhawa.java-codes-and-projects&style=flat&color=blue) |
+| [📊 Data Analysis Projects](https://github.com/SPRandhawa/data-analytics-projects) | ![Stars](https://img.shields.io/github/stars/SPRandhawa/data-analytics-projects?style=flat&color=yellow) | ![Views](https://visitor-badge.laobi.icu/badge?page_id=SPRandhawa.data-analytics-projects&style=flat&color=blue) |
