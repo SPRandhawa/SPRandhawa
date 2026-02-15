@@ -23,20 +23,23 @@
   <img src="https://img.shields.io/badge/Identity%20Security-Verified-blue?style=for-the-badge" alt="Identity Security" />
 </p>
 <hr>
-## 🔗 **Projects**
+---
+
+<h2 align="center">🔗 Project Portals</h2>
+
 <p align="center">
-  <a href="https://github.com/SPRandhawa/cybersecurity-projects">
-    <img src="https://img.shields.io/badge/💻-Cybersecurity%20Projects-blue?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/SPRandhawa/web-dev-projects">
-    <img src="https://img.shields.io/badge/🌐-Web%20Development%20Projects-green?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/SPRandhawa/java-codes-and-projects">
-    <img src="https://img.shields.io/badge/☕-Java%20Projects-orange?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/SPRandhawa/data-analytics-projects">
-    <img src="https://img.shields.io/badge/📊-Data%20Analysis%20Projects-purple?style=for-the-badge&logo=github" />
-  </a>
+  <code><b>[ 01 ]</b></code> <a href="https://github.com/SPRandhawa/cybersecurity-projects"><b>Cybersecurity Hub</b></a> 
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <code><b>[ 02 ]</b></code> <a href="https://github.com/SPRandhawa/web-dev-projects"><b>Web Development</b></a> 
 </p>
 
-<hr>
+<p align="center">
+  <code><b>[ 03 ]</b></code> <a href="https://github.com/SPRandhawa/java-codes-and-projects"><b>Java Portfolio</b></a> 
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <code><b>[ 04 ]</b></code> <a href="https://github.com/SPRandhawa/data-analytics-projects"><b>Data Analytics</b></a>
+</p>
+
+<p align="center">
+  <i>(Click the titles above to explore individual repositories)</i>
+</p>
+
