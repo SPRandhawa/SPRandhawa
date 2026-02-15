@@ -72,9 +72,11 @@
 </tr>
 </table>
 <hr>
-### 🌍 Visitor Stats
-![Visitor Stats](https://sp-randhawa-visitor-tracker.onrender.com/stats-svg)
+## 🌍 Global Network Reach
 
+<p align="center">
+  <img src="https://your-app-name.onrender.com/api/visitor-table" alt="Visitor Table" />
+</p>
 
 
 
