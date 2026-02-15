@@ -74,6 +74,10 @@
 <hr>
 <h2 align="center"><b>🌍 Visitor Tracker</b></h2>
 ![Visitor Tracker](https://sprandhawa.onrender.com/visitor.svg)
+Visitor Tracker Server is running. Go to [/visitor.svg](https://sprandhawa.onrender.com/visitor.svg)
+
+![Visitor Tracker](https://sprandhawa.onrender.com/visitor.svg)
+
 <hr>
 
 
