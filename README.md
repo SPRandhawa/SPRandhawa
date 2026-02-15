@@ -44,53 +44,31 @@
 </tr>
 
 <tr>
-<td align="center">
-<b>💻 Cybersecurity Projects</b><br/>
-<a href="https://github.com/SPRandhawa/cybersecurity-projects">
-github.com/SPRandhawa/cybersecurity-projects
-</a>
-</td>
+<td align="center"><b>💻 Cybersecurity Projects</b></td>
 <td align="center">
 <img src="https://img.shields.io/github/stars/SPRandhawa/cybersecurity-projects?style=for-the-badge&color=FFD700&label=" />
 </td>
 </tr>
 
 <tr>
-<td align="center">
-<b>🌐 Web Development Projects</b><br/>
-<a href="https://github.com/SPRandhawa/web-dev-projects">
-github.com/SPRandhawa/web-dev-projects
-</a>
-</td>
+<td align="center"><b>🌐 Web Development Projects</b></td>
 <td align="center">
 <img src="https://img.shields.io/github/stars/SPRandhawa/web-dev-projects?style=for-the-badge&color=FFD700&label=" />
 </td>
 </tr>
 
 <tr>
-<td align="center">
-<b>☕ Java Projects</b><br/>
-<a href="https://github.com/SPRandhawa/java-codes-and-projects">
-github.com/SPRandhawa/java-codes-and-projects
-</a>
-</td>
+<td align="center"><b>☕ Java Projects</b></td>
 <td align="center">
 <img src="https://img.shields.io/github/stars/SPRandhawa/java-codes-and-projects?style=for-the-badge&color=FFD700&label=" />
 </td>
 </tr>
 
 <tr>
-<td align="center">
-<b>📊 Data Analysis Projects</b><br/>
-<a href="https://github.com/SPRandhawa/data-analytics-projects">
-github.com/SPRandhawa/data-analytics-projects
-</a>
-</td>
+<td align="center"><b>📊 Data Analysis Projects</b></td>
 <td align="center">
 <img src="https://img.shields.io/github/stars/SPRandhawa/data-analytics-projects?style=for-the-badge&color=FFD700&label=" />
 </td>
 </tr>
-
 </table>
-
 <hr>
