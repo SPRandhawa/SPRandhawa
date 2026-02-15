@@ -75,7 +75,7 @@
 ## 🌍 Global Network Reach
 
 <p align="center">
-  <img src="https://your-app-name.onrender.com/api/visitor-table" alt="Visitor Table" />
+  <img src="https://your-render-app-name.onrender.com/" alt="Global Visitor Stats" />
 </p>
 
 
