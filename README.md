@@ -111,3 +111,19 @@
 
 
 
+<h2 align="center"><b>🔥 Advanced GitHub Stats</b></h2>
+
+<p align="center">
+  <!-- Encrypted Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Encrypted Stats Card"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPRandhawa&layout=compact&theme=radical&hide_border=true" alt="Top Languages Card"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SPRandhawa&theme=radical&hide_border=true" alt="GitHub Streak Card"/>
+</p>
