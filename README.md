@@ -92,7 +92,9 @@ I am <b>SPRandhawa</b>, an aspiring <b>CSDA Expert with Applied AI</b> specializ
 </div>
 
 <br/>
-<h2 align="center">🧩 Hobbies & Interests</h2> <div align="center"> <table> <tr> <td align="center" width="50%"> <h3>🌐 Web Development</h3> <p>Building secure, scalable web applications with modern frameworks and best practices</p> </td> <td align="center" width="50%"> <h3>📱 Mobile Applications</h3> <p>Exploring mobile app development and cross-platform solutions</p> </td> </tr> <tr> <td align="center" width="50%"> <h3>☕ Java Programming</h3> <p>Mastering Java for enterprise-level applications and security frameworks</p> </td> <td align="center" width="50%"> <h3>📊 Data Analytics</h3> <p>Practicing statistical analysis and data visualization techniques</p> </td> </tr> <tr> <td align="center" width="50%"> <h3>🛡️ Ethical Hacking</h3> <p>Training in penetration testing and vulnerability assessment methodologies</p> </td> <td align="center" width="50%"> <h3>🎮 Gaming & Tech</h3> <p>Passionate about gaming and discovering emerging technologies</p> </td> </tr> </table> </div> <br/>
+---
+<h2 align="center">🧩 Hobbies & Interests</h2> <div align="center"> <table> <tr> <td align="center" width="50%"> <h3>🌐 Web Development</h3> <p>Building secure, scalable web applications with modern frameworks and best practices</p> </td> <td align="center" width="50%"> <h3>📱 Mobile Applications</h3> <p>Exploring mobile app development and cross-platform solutions</p> </td> </tr> <tr> <td align="center" width="50%"> <h3>☕ Java Programming</h3> <p>Mastering Java for enterprise-level applications and security frameworks</p> </td> <td align="center" width="50%"> <h3>📊 Data Analytics</h3> <p>Practicing statistical analysis and data visualization techniques</p> </td> </tr> <tr> <td align="center" width="50%"> <h3>🛡️ Ethical Hacking</h3> <p>Training in penetration testing and vulnerability assessment methodologies</p> </td> <td align="center" width="50%"> <h3>🎮 Gaming & Tech</h3> <p>Passionate about gaming and discovering emerging technologies</p> </td> </tr> </table> </div> </br>
+
 ---
 
 <!-- ABOUT ME + GIF -->
