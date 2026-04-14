@@ -166,19 +166,63 @@ Passion     : Turning Threats into Insights
 <!-- REPOS-SECTION-START -->
 <div align="center">
 
-<a href="https://github.com/SPRandhawa/SPRandhawa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SPRandhawa&repo=SPRandhawa&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/SPRandhawa/skycast"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SPRandhawa&repo=skycast&theme=tokyonight&hide_border=true" /></a>
+## 📦 Public Repositories
 
-<a href="https://github.com/SPRandhawa/auracalendar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SPRandhawa&repo=auracalendar&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/SPRandhawa/SPRandhawa.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SPRandhawa&repo=SPRandhawa.github.io&theme=tokyonight&hide_border=true" /></a>
+### [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa)
+> No description
 
-<a href="https://github.com/SPRandhawa/cybersecurity-projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SPRandhawa&repo=cybersecurity-projects&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/SPRandhawa/web-dev-projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SPRandhawa&repo=web-dev-projects&theme=tokyonight&hide_border=true" /></a>
+![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-N/A-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-04-14-2ecc71?style=flat-square)
 
-<a href="https://github.com/SPRandhawa/java-codes-and-projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SPRandhawa&repo=java-codes-and-projects&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/SPRandhawa/data-analytics-projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SPRandhawa&repo=data-analytics-projects&theme=tokyonight&hide_border=true" /></a>
+---
 
-</div>
+### [skycast](https://github.com/SPRandhawa/skycast)
+> No description
+
+![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-HTML-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-04-13-2ecc71?style=flat-square)
+
+---
+
+### [auracalendar](https://github.com/SPRandhawa/auracalendar)
+> A full stack event calendar with Flask, SQLite and email 
+
+![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-HTML-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-04-13-2ecc71?style=flat-square)
+
+---
+
+### [SPRandhawa.github.io](https://github.com/SPRandhawa/SPRandhawa.github.io)
+> No description
+
+![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-HTML-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-03-13-2ecc71?style=flat-square)
+
+---
+
+### [cybersecurity-projects](https://github.com/SPRandhawa/cybersecurity-projects)
+> Practical cybersecurity projects focused on ethical hacking, security automation, and vulnerability testing.
+
+![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-N/A-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-02-01-2ecc71?style=flat-square)
+
+---
+
+### [web-dev-projects](https://github.com/SPRandhawa/web-dev-projects)
+> A collection of front-end and full-stack web development projects using HTML, CSS, JavaScript, and modern frameworks.
+
+![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-CSS-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2025-12-01-2ecc71?style=flat-square)
+
+---
+
+### [java-codes-and-projects](https://github.com/SPRandhawa/java-codes-and-projects)
+> A collection of Java programs, code snippets, DSA solutions, and projects covering core concepts, problem solving, and hands-on development.
+
+![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-Java-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2025-11-09-2ecc71?style=flat-square)
+
+---
+
+### [data-analytics-projects](https://github.com/SPRandhawa/data-analytics-projects)
+> A collection of data analytics projects focused on exploring, cleaning, and visualizing real-world dataset
+
+![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-N/A-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2025-11-09-2ecc71?style=flat-square)
+
+---
 
 | 📁 Repository | 💻 Language | ⭐ Stars | 🍴 Forks | 📅 Last Updated |
 |---|---|---|---|---|
@@ -191,4 +235,5 @@ Passion     : Turning Threats into Insights
 | [java-codes-and-projects](https://github.com/SPRandhawa/java-codes-and-projects) | Java | 1 | 0 | 2025-11-09 |
 | [data-analytics-projects](https://github.com/SPRandhawa/data-analytics-projects) | N/A | 1 | 0 | 2025-11-09 |
 
+</div>
 <!-- REPOS-SECTION-END -->
