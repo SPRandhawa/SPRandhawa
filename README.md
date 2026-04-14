@@ -110,5 +110,58 @@ Focus       : Applied AI + Ethical Hacking + Data Science
 Status      : Actively Learning & Building 🚀
 <br>
 Passion     : Turning Threats into Insights
-<br clear="right"/>
+<br/>
+
 ---
+
+<!-- GLOBAL COMMAND CENTER -->
+<h2 align="center">🎛️ Global Command Center</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <h3>👁️ Profile Views</h3>
+        <img src="https://komarev.com/ghpvc/?username=SPRandhawahi&color=00b4d8&style=flat-square&label=Views" alt="Profile Views" />
+      </td>
+      <td align="center" width="25%">
+        <h3>⭐ Total Stars</h3>
+        <img src="https://img.shields.io/github/stars/SPRandhawahi?style=flat-square&color=FFD700&label=Stars" alt="Total Stars" />
+      </td>
+      <td align="center" width="25%">
+        <h3>👥 Followers</h3>
+        <img src="https://img.shields.io/github/followers/SPRandhawahi?style=flat-square&color=00f5ff&label=Followers" alt="Followers" />
+      </td>
+      <td align="center" width="25%">
+        <h3>🔗 Following</h3>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SPRandhawahi&query=$.following&style=flat-square&color=0a3d62&label=Following" alt="Following" />
+      </td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>📦 Public Repos</h3>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SPRandhawahi&query=$.public_repos&style=flat-square&color=6e40c9&label=Repositories" alt="Public Repos" />
+      </td>
+      <td align="center" width="33%">
+        <h3>🔒 Identity</h3>
+        <img src="https://img.shields.io/badge/Status-Verified-00b4d8?style=flat-square" alt="Identity" />
+      </td>
+      <td align="center" width="33%">
+        <h3>🛡️ Security</h3>
+        <img src="https://img.shields.io/badge/2FA_Enabled-✓-2ecc71?style=flat-square" alt="Security" />
+      </td>
+    </tr>
+  </table>
+
+  <p style="margin-top: 20px; font-size: 14px; color: #a0e9ff;">
+    <i>Real-time metrics synced with GitHub API • Updates automatically</i>
+  </p>
+</div>
+
+<br/>
+
+---
+
