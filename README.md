@@ -237,3 +237,47 @@ Passion     : Turning Threats into Insights
 
 </div>
 <!-- REPOS-SECTION-END -->
+<br/>
+
+---
+<!-- VISITOR TRACKER -->
+<h2 align="center">📈 Visitor Tracker</h2>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SPRandhawahi&color=00b4d8&style=flat-square&label=Total+Visitors" alt="Visitor Count" />
+  
+  <br/><br/>
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>🌍 Global Reach</h3>
+        <p>Visitors from around the world discovering my work</p>
+      </td>
+      <td align="center" width="33%">
+        <h3>📊 Traffic Analytics</h3>
+        <p>Real-time tracking of profile engagement and activity</p>
+      </td>
+      <td align="center" width="33%">
+        <h3>🔄 Live Updates</h3>
+        <p>Counter updates with every visit to this profile</p>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <h3 align="center">🌐 Visitors by Country</h3>
+
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=🇮🇳+India;🇺🇸+United+States;🇬🇧+United+Kingdom;🇨🇦+Canada;🇦🇺+Australia;🌍+And+Many+More" alt="Countries" />
+  </div>
+
+  <p style="margin-top: 20px; font-size: 14px; color: #a0e9ff;">
+    <i>✨ Each visit to this profile is tracked and counted in real-time from multiple countries ✨</i>
+  </p>
+</div>
+
+<br/>
+
+---
