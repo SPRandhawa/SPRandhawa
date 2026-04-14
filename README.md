@@ -110,15 +110,5 @@ Focus       : Applied AI + Ethical Hacking + Data Science
 Status      : Actively Learning & Building 🚀
 <br>
 Passion     : Turning Threats into Insights
-<br>
-- 🎯 Mission: Become a **CSDA Expert with Applied AI** specialization
-- 🛡️ **Ethical Hacking & Penetration Testing** — Securing digital frontiers
-- 📊 **Data Analytics & ML/AI** — Extracting intelligence from complex data
-- 🌐 **Full-Stack Development** — Web & Mobile applications
-- ☕ **Java Enthusiast** — Continuously leveling up
-- 🎮 **Tech & Gaming** — Always exploring the cutting edge
-- 🤖 **Vision** — AI-powered systems that are both intelligent & secure
-
 <br clear="right"/>
-
 ---
