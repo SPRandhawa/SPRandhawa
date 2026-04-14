@@ -128,7 +128,7 @@ Passion     : Turning Threats into Insights
       </td>
       <td align="center" width="25%">
         <h3>⭐ Total Stars</h3>
-        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Frepositories%3Fq%3Duser%3ASPRandhawahi&query=$.total_count&label=Stars&color=FFD700&style=flat-square" alt="Total Stars" />
+        <img src="https://github-readme-stats.vercel.app/api?username=SPRandhawahi&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&hide=commits,prs,issues,contribs&custom_title=Stars" alt="Total Stars" />
       </td>
       <td align="center" width="25%">
         <h3>👥 Followers</h3>
