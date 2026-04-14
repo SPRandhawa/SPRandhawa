@@ -99,7 +99,7 @@ I am <b>SPRandhawa</b>, an aspiring <b>CSDA Expert with Applied AI</b> specializ
 
 <!-- ABOUT ME + GIF -->
 <h3>👨‍💻 About Me</h3>
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" style="border-radius: 5px; margin: 0 20px;"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" style="border-radius: 5px; margin:  10px;"/>
 Name        : SPRandhawa
 <br>
 Field       : CSDA — Cybersecurity & Data Analysis
