@@ -244,38 +244,48 @@ Passion     : Turning Threats into Insights
 <h2 align="center">📈 Visitor Tracker</h2>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SPRandhawahi&color=00b4d8&style=flat-square&label=Total+Visitors" alt="Visitor Count" />
   
+  <p style="font-size: 18px; color: #00f5ff; font-weight: bold;">
+    👁️ Total Profile Views
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=SPRandhawahi&color=00b4d8&style=plastic" alt="Visitor Count" />
+
   <br/><br/>
-  
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>🌍 Global Reach</h3>
-        <p>Visitors from around the world discovering my work</p>
-      </td>
-      <td align="center" width="33%">
-        <h3>📊 Traffic Analytics</h3>
-        <p>Real-time tracking of profile engagement and activity</p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🔄 Live Updates</h3>
-        <p>Counter updates with every visit to this profile</p>
-      </td>
-    </tr>
-  </table>
 
-  <br/>
+  <h3 style="color: #00f5ff;">🌍 Top Visitors by Country</h3>
 
-  <h3 align="center">🌐 Visitors by Country</h3>
-
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=🇮🇳+India;🇺🇸+United+States;🇬🇧+United+Kingdom;🇨🇦+Canada;🇦🇺+Australia;🌍+And+Many+More" alt="Countries" />
+  <div style="background: rgba(10, 61, 98, 0.3); border: 2px solid #00b4d8; border-radius: 10px; padding: 20px; display: inline-block;">
+    <table style="border-collapse: collapse;">
+      <tr>
+        <td style="padding: 10px 20px; border-right: 1px solid #00b4d8; text-align: center;">
+          <p style="font-size: 24px;">🇮🇳</p>
+          <p style="color: #a0e9ff; font-size: 14px;">India</p>
+        </td>
+        <td style="padding: 10px 20px; border-right: 1px solid #00b4d8; text-align: center;">
+          <p style="font-size: 24px;">🇺🇸</p>
+          <p style="color: #a0e9ff; font-size: 14px;">USA</p>
+        </td>
+        <td style="padding: 10px 20px; border-right: 1px solid #00b4d8; text-align: center;">
+          <p style="font-size: 24px;">🇬🇧</p>
+          <p style="color: #a0e9ff; font-size: 14px;">UK</p>
+        </td>
+        <td style="padding: 10px 20px; border-right: 1px solid #00b4d8; text-align: center;">
+          <p style="font-size: 24px;">🇨🇦</p>
+          <p style="color: #a0e9ff; font-size: 14px;">Canada</p>
+        </td>
+        <td style="padding: 10px 20px; text-align: center;">
+          <p style="font-size: 24px;">🇦🇺</p>
+          <p style="color: #a0e9ff; font-size: 14px;">Australia</p>
+        </td>
+      </tr>
+    </table>
   </div>
 
   <p style="margin-top: 20px; font-size: 14px; color: #a0e9ff;">
-    <i>✨ Each visit to this profile is tracked and counted in real-time from multiple countries ✨</i>
+    <i>Tracking visitors from across the globe 🌐</i>
   </p>
+
 </div>
 
 <br/>
