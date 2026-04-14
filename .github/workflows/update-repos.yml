@@ -38,26 +38,33 @@ jobs:
           repos = [r for r in resp.json() if not r['fork']]
           repos.sort(key=lambda x: x['stargazers_count'], reverse=True)
 
-          # Cards Section (2 per row)
-          cards = '<div align="center">\n\n'
-          for i in range(0, len(repos), 2):
-              cards += f'<a href="{repos[i]["html_url"]}">'
-              cards += f'<img src="https://github-readme-stats.vercel.app/api/pin/?username={username}&repo={repos[i]["name"]}&theme=tokyonight&hide_border=true" /></a>\n'
-              if i + 1 < len(repos):
-                  cards += f'<a href="{repos[i+1]["html_url"]}">'
-                  cards += f'<img src="https://github-readme-stats.vercel.app/api/pin/?username={username}&repo={repos[i+1]["name"]}&theme=tokyonight&hide_border=true" /></a>\n'
-              cards += '\n'
-          cards += '</div>\n\n'
+          content = '<div align="center">\n\n'
+          content += '## 📦 Public Repositories\n\n'
+
+          # Badges per repo
+          for r in repos:
+              lang = r['language'] or 'N/A'
+              lang_encoded = lang.replace(' ', '%20').replace('+', '%2B')
+              name_encoded = r['name'].replace(' ', '%20')
+              desc = r['description'] or 'No description'
+
+              content += f"### [{r['name']}]({r['html_url']})\n"
+              content += f"> {desc}\n\n"
+              content += f"![Stars](https://img.shields.io/badge/Stars-{r['stargazers_count']}-FFD700?style=flat-square&logo=github) "
+              content += f"![Forks](https://img.shields.io/badge/Forks-{r['forks_count']}-00f5ff?style=flat-square&logo=github) "
+              content += f"![Language](https://img.shields.io/badge/Language-{lang_encoded}-6e40c9?style=flat-square) "
+              content += f"![Updated](https://img.shields.io/badge/Updated-{r['updated_at'][:10]}-2ecc71?style=flat-square)\n\n"
+              content += "---\n\n"
 
           # Table Section
-          table = '| 📁 Repository | 💻 Language | ⭐ Stars | 🍴 Forks | 📅 Last Updated |\n'
-          table += '|---|---|---|---|---|\n'
+          content += '| 📁 Repository | 💻 Language | ⭐ Stars | 🍴 Forks | 📅 Last Updated |\n'
+          content += '|---|---|---|---|---|\n'
           for r in repos:
               lang = r['language'] or 'N/A'
               updated = r['updated_at'][:10]
-              table += f"| [{r['name']}]({r['html_url']}) | {lang} | {r['stargazers_count']} | {r['forks_count']} | {updated} |\n"
+              content += f"| [{r['name']}]({r['html_url']}) | {lang} | {r['stargazers_count']} | {r['forks_count']} | {updated} |\n"
 
-          content = cards + table
+          content += '\n</div>'
 
           with open('README.md', 'r') as f:
               readme = f.read()
