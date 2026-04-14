@@ -245,47 +245,11 @@ Passion     : Turning Threats into Insights
 
 <div align="center">
   
-  <p style="font-size: 18px; color: #00f5ff; font-weight: bold;">
-    👁️ Total Profile Views
-  </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=SPRandhawahi&color=00b4d8&style=plastic" alt="Visitor Count" />
+ <h2 align="center">🌍 Global Visitor Map</h2>
 
-  <br/><br/>
-
-  <h3 style="color: #00f5ff;">🌍 Top Visitors by Country</h3>
-
-  <div style="background: rgba(10, 61, 98, 0.3); border: 2px solid #00b4d8; border-radius: 10px; padding: 20px; display: inline-block;">
-    <table style="border-collapse: collapse;">
-      <tr>
-        <td style="padding: 10px 20px; border-right: 1px solid #00b4d8; text-align: center;">
-          <p style="font-size: 24px;">🇮🇳</p>
-          <p style="color: #a0e9ff; font-size: 14px;">India</p>
-        </td>
-        <td style="padding: 10px 20px; border-right: 1px solid #00b4d8; text-align: center;">
-          <p style="font-size: 24px;">🇺🇸</p>
-          <p style="color: #a0e9ff; font-size: 14px;">USA</p>
-        </td>
-        <td style="padding: 10px 20px; border-right: 1px solid #00b4d8; text-align: center;">
-          <p style="font-size: 24px;">🇬🇧</p>
-          <p style="color: #a0e9ff; font-size: 14px;">UK</p>
-        </td>
-        <td style="padding: 10px 20px; border-right: 1px solid #00b4d8; text-align: center;">
-          <p style="font-size: 24px;">🇨🇦</p>
-          <p style="color: #a0e9ff; font-size: 14px;">Canada</p>
-        </td>
-        <td style="padding: 10px 20px; text-align: center;">
-          <p style="font-size: 24px;">🇦🇺</p>
-          <p style="color: #a0e9ff; font-size: 14px;">Australia</p>
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <p style="margin-top: 20px; font-size: 14px; color: #a0e9ff;">
-    <i>Tracking visitors from across the globe 🌐</i>
-  </p>
-
+<div align="center" style="background: rgba(10, 61, 98, 0.3); border: 2px solid #00b4d8; border-radius: 10px; padding: 20px;">
+  <img src="https://clustrmaps.com/map_v2.png?d=YOUR_CODE" />
+</div>
 </div>
 
 <br/>
