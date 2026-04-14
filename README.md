@@ -252,5 +252,5 @@ Passion     : Turning Threats into Insights
 <h2 align="center">🌍 Visitor Intelligence</h2>
 
 <div align="center">
-  <img src="https://visitor-tracker.onrender.com/track.png" />
+  <img src="https://visitor-tracker-wlgv.onrender.com/" />
 </div>
