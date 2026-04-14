@@ -164,4 +164,31 @@ Passion     : Turning Threats into Insights
 
 ---
 <!-- REPOS-SECTION-START -->
+<div align="center">
+
+<a href="https://github.com/SPRandhawa/SPRandhawa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SPRandhawa&repo=SPRandhawa&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/SPRandhawa/skycast"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SPRandhawa&repo=skycast&theme=tokyonight&hide_border=true" /></a>
+
+<a href="https://github.com/SPRandhawa/auracalendar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SPRandhawa&repo=auracalendar&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/SPRandhawa/SPRandhawa.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SPRandhawa&repo=SPRandhawa.github.io&theme=tokyonight&hide_border=true" /></a>
+
+<a href="https://github.com/SPRandhawa/cybersecurity-projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SPRandhawa&repo=cybersecurity-projects&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/SPRandhawa/web-dev-projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SPRandhawa&repo=web-dev-projects&theme=tokyonight&hide_border=true" /></a>
+
+<a href="https://github.com/SPRandhawa/java-codes-and-projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SPRandhawa&repo=java-codes-and-projects&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/SPRandhawa/data-analytics-projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SPRandhawa&repo=data-analytics-projects&theme=tokyonight&hide_border=true" /></a>
+
+</div>
+
+| 📁 Repository | 💻 Language | ⭐ Stars | 🍴 Forks | 📅 Last Updated |
+|---|---|---|---|---|
+| [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa) | N/A | 1 | 0 | 2026-04-14 |
+| [skycast](https://github.com/SPRandhawa/skycast) | HTML | 1 | 0 | 2026-04-13 |
+| [auracalendar](https://github.com/SPRandhawa/auracalendar) | HTML | 1 | 0 | 2026-04-13 |
+| [SPRandhawa.github.io](https://github.com/SPRandhawa/SPRandhawa.github.io) | HTML | 1 | 0 | 2026-03-13 |
+| [cybersecurity-projects](https://github.com/SPRandhawa/cybersecurity-projects) | N/A | 1 | 0 | 2026-02-01 |
+| [web-dev-projects](https://github.com/SPRandhawa/web-dev-projects) | CSS | 1 | 0 | 2025-12-01 |
+| [java-codes-and-projects](https://github.com/SPRandhawa/java-codes-and-projects) | Java | 1 | 0 | 2025-11-09 |
+| [data-analytics-projects](https://github.com/SPRandhawa/data-analytics-projects) | N/A | 1 | 0 | 2025-11-09 |
+
 <!-- REPOS-SECTION-END -->
