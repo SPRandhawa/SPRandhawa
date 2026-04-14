@@ -117,10 +117,8 @@ Passion     : Turning Threats into Insights
 <br/>
 
 ---
-
 <!-- GLOBAL COMMAND CENTER -->
 <h2 align="center">🎛️ Global Command Center</h2>
-
 <div align="center">
   <table>
     <tr>
@@ -130,7 +128,7 @@ Passion     : Turning Threats into Insights
       </td>
       <td align="center" width="25%">
         <h3>⭐ Total Stars</h3>
-        <img src="https://img.shields.io/github/stars/SPRandhawahi?style=flat-square&color=FFD700" alt="Total Stars" />
+        <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:SPRandhawahi&query=$.total_count&label=Repos&color=FFD700&style=flat-square" alt="Total Stars" />
       </td>
       <td align="center" width="25%">
         <h3>👥 Followers</h3>
@@ -138,16 +136,15 @@ Passion     : Turning Threats into Insights
       </td>
       <td align="center" width="25%">
         <h3>🔗 Following</h3>
-        <img src="https://img.shields.io/github/following/SPRandhawahi?style=flat-square&color=0a3d62" alt="Following" />
+        <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SPRandhawahi&query=$.following&label=Following&color=0a3d62&style=flat-square" alt="Following" />
       </td>
     </tr>
   </table>
-
   <table>
     <tr>
       <td align="center" width="33%">
         <h3>📦 Public Repos</h3>
-        <img src="https://img.shields.io/github/repos/SPRandhawahi?style=flat-square&color=6e40c9" alt="Public Repos" />
+        <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SPRandhawahi&query=$.public_repos&label=Repos&color=6e40c9&style=flat-square" alt="Public Repos" />
       </td>
       <td align="center" width="33%">
         <h3>🔒 Identity</h3>
@@ -159,12 +156,4 @@ Passion     : Turning Threats into Insights
       </td>
     </tr>
   </table>
-
-  <p style="margin-top: 20px; font-size: 14px; color: #a0e9ff;">
-    <i>Real-time metrics synced with GitHub API • Updates automatically</i>
-  </p>
 </div>
-
-<br/>
-
----
