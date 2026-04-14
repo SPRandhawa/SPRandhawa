@@ -243,22 +243,6 @@ Passion     : Turning Threats into Insights
 <!-- VISITOR TRACKER -->
 <h2 align="center">🌍 Visitor Intelligence</h2>
 
-<div align="center" style="
-  background: linear-gradient(135deg, #0a3d62, #000000);
-  border: 2px solid #00f5ff;
-  border-radius: 15px;
-  padding: 25px;
-  box-shadow: 0 0 20px #00f5ff55;
-">
-
-  <img src="https://flagcounter.com/count/YOUR_CODE/bg_000000/txt_00f5ff/border_0a3d62/columns_6/maxflags_12/viewers_1/labels_1/pageviews_1/flags_0/" />
-
-  <p style="margin-top:15px; color:#00f5ff;">
-    ⚡ Real-time global access logs
-  </p>
-
+<div align="center">
+  <img src="https://visitor-tracker.onrender.com/track.png" />
 </div>
-
-<br/>
-
----
