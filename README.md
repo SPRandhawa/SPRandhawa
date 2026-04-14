@@ -126,19 +126,19 @@ Passion     : Turning Threats into Insights
     <tr>
       <td align="center" width="25%">
         <h3>👁️ Profile Views</h3>
-        <img src="https://komarev.com/ghpvc/?username=SPRandhawahi&color=00b4d8&style=flat-square&label=Views" alt="Profile Views" />
+        <img src="https://komarev.com/ghpvc/?username=SPRandhawahi&color=00b4d8&style=flat-square" alt="Profile Views" />
       </td>
       <td align="center" width="25%">
         <h3>⭐ Total Stars</h3>
-        <img src="https://img.shields.io/github/stars/SPRandhawahi?style=flat-square&color=FFD700&label=Stars" alt="Total Stars" />
+        <img src="https://img.shields.io/github/stars/SPRandhawahi?style=flat-square&color=FFD700" alt="Total Stars" />
       </td>
       <td align="center" width="25%">
         <h3>👥 Followers</h3>
-        <img src="https://img.shields.io/github/followers/SPRandhawahi?style=flat-square&color=00f5ff&label=Followers" alt="Followers" />
+        <img src="https://img.shields.io/github/followers/SPRandhawahi?style=flat-square&color=00f5ff" alt="Followers" />
       </td>
       <td align="center" width="25%">
         <h3>🔗 Following</h3>
-        <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SPRandhawahi&query=$.following&style=flat-square&color=0a3d62&label=Following" alt="Following" />
+        <img src="https://img.shields.io/github/following/SPRandhawahi?style=flat-square&color=0a3d62" alt="Following" />
       </td>
     </tr>
   </table>
@@ -147,7 +147,7 @@ Passion     : Turning Threats into Insights
     <tr>
       <td align="center" width="33%">
         <h3>📦 Public Repos</h3>
-        <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SPRandhawahi&query=$.public_repos&style=flat-square&color=6e40c9&label=Repositories" alt="Public Repos" />
+        <img src="https://img.shields.io/github/repos/SPRandhawahi?style=flat-square&color=6e40c9" alt="Public Repos" />
       </td>
       <td align="center" width="33%">
         <h3>🔒 Identity</h3>
@@ -168,4 +168,3 @@ Passion     : Turning Threats into Insights
 <br/>
 
 ---
-
