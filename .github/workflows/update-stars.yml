@@ -1,0 +1,26 @@
+name: Update Star Count
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Calculate and update stars
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GIST_ID: 94a658d66858b9ec68acd7276bd95d12
+          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
+        run: |
+          STARS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/users/SPRandhawa/repos?per_page=100" | \
+            python3 -c "import sys,json; data=json.load(sys.stdin); print(sum(r['stargazers_count'] for r in data))")
+
+          curl -s -X PATCH \
+            -H "Authorization: token $GIST_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d "{\"files\":{\"stars.json\":{\"content\":\"{\\\"stars\\\": $STARS}\"}}}" \
+            "https://api.github.com/gists/$GIST_ID"
