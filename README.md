@@ -245,10 +245,12 @@ Passion     : Turning Threats into Insights
 
 <div align="center">
   
- <h2 align="center">🌍 Global Visitor Map</h2>
+<h2 align="center">📈 Visitor Intelligence</h2>
 
-<div align="center" style="background: rgba(10, 61, 98, 0.3); border: 2px solid #00b4d8; border-radius: 10px; padding: 20px;">
-  <img src="https://clustrmaps.com/map_v2.png?d=YOUR_CODE" />
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SPRandhawa&count_bg=%2300b4d8&title_bg=%230a3d62&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
+  <br/><br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SPRandhawa.SPRandhawa&left_color=0a3d62&right_color=00b4d8"/>
 </div>
 </div>
 
