@@ -102,14 +102,15 @@ I am <b>SPRandhawa</b>, an aspiring <b>CSDA Expert with Applied AI</b> specializ
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" style="border-radius: 10px; margin: 0 20px;"/>
 Name        : SPRandhawa
+<br>
 Field       : CSDA — Cybersecurity & Data Analysis
+<br>
 Focus       : Applied AI + Ethical Hacking + Data Science
+<br>
 Status      : Actively Learning & Building 🚀
+<br>
 Passion     : Turning Threats into Insights
-
-
-
-
+<br>
 - 🎯 Mission: Become a **CSDA Expert with Applied AI** specialization
 - 🛡️ **Ethical Hacking & Penetration Testing** — Securing digital frontiers
 - 📊 **Data Analytics & ML/AI** — Extracting intelligence from complex data
