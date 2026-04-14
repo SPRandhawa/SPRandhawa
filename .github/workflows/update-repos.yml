@@ -1,0 +1,79 @@
+name: Update Repo Section
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate repo section
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 << 'EOF'
+          import requests
+          import os
+          import re
+
+          username = 'SPRandhawa'
+          token = os.environ.get('GITHUB_TOKEN')
+          headers = {"Authorization": f"token {token}"}
+
+          resp = requests.get(
+              f'https://api.github.com/users/{username}/repos?per_page=100&sort=updated',
+              headers=headers
+          )
+          repos = [r for r in resp.json() if not r['fork']]
+          repos.sort(key=lambda x: x['stargazers_count'], reverse=True)
+
+          # Cards Section (2 per row)
+          cards = '<div align="center">\n\n'
+          for i in range(0, len(repos), 2):
+              cards += f'<a href="{repos[i]["html_url"]}">'
+              cards += f'<img src="https://github-readme-stats.vercel.app/api/pin/?username={username}&repo={repos[i]["name"]}&theme=tokyonight&hide_border=true" /></a>\n'
+              if i + 1 < len(repos):
+                  cards += f'<a href="{repos[i+1]["html_url"]}">'
+                  cards += f'<img src="https://github-readme-stats.vercel.app/api/pin/?username={username}&repo={repos[i+1]["name"]}&theme=tokyonight&hide_border=true" /></a>\n'
+              cards += '\n'
+          cards += '</div>\n\n'
+
+          # Table Section
+          table = '| 📁 Repository | 💻 Language | ⭐ Stars | 🍴 Forks | 📅 Last Updated |\n'
+          table += '|---|---|---|---|---|\n'
+          for r in repos:
+              lang = r['language'] or 'N/A'
+              updated = r['updated_at'][:10]
+              table += f"| [{r['name']}]({r['html_url']}) | {lang} | {r['stargazers_count']} | {r['forks_count']} | {updated} |\n"
+
+          content = cards + table
+
+          with open('README.md', 'r') as f:
+              readme = f.read()
+
+          new_readme = re.sub(
+              r'<!-- REPOS-SECTION-START -->.*?<!-- REPOS-SECTION-END -->',
+              f'<!-- REPOS-SECTION-START -->\n{content}\n<!-- REPOS-SECTION-END -->',
+              readme,
+              flags=re.DOTALL
+          )
+
+          with open('README.md', 'w') as f:
+              f.write(new_readme)
+
+          print("README updated successfully!")
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add README.md
+          git diff --staged --quiet || git commit -m "🔄 Auto-update repo section"
+          git push
