@@ -110,6 +110,9 @@ Focus       : Applied AI + Ethical Hacking + Data Science
 Status      : Actively Learning & Building 🚀
 <br>
 Passion     : Turning Threats into Insights
+<br>
+<br>
+<br>
 <br/>
 
 ---
