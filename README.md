@@ -272,16 +272,15 @@ Passion     : Turning Threats into Insights
 
 <div align="center">
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=SPRandhawa&theme=radical" />
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=SPRandhawa&theme=tokyonight&hide_border=true&border_radius=10" />
 
 <br/><br/>
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
-
 <!-- Contribution Graph (BLUE and stable) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SPRandhawa&theme=react-dark" />
 
