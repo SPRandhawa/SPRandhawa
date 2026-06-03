@@ -254,3 +254,28 @@ Passion     : Turning Threats into Insights
 <div align="center">
   <img src="https://visitor-tracker-wlgv.onrender.com/track.png" />
 </div>
+---
+
+<!-- ADVANCED GITHUB STATS -->
+<h2 align="center">🔥 Advanced GitHub Stats</h2>
+
+<div align="center">
+
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=SPRandhawa&theme=tokyonight&hide_border=true&border_radius=10" />
+
+<br/><br/>
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SPRandhawa&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+<br/>
+
+---
