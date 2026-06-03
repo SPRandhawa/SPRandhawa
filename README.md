@@ -272,15 +272,15 @@ Passion     : Turning Threats into Insights
 
 <div align="center">
 
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff2e97&icon_color=ff2e97&text_color=f5c2e7" />
+<!-- GitHub Streak Stats - Customized to match pink theme -->
+<img src="https://streak-stats.demolab.com?user=SPRandhawa&theme=tokyonight&hide_border=true&border_radius=10&stroke=%23FF007F&fire=%23FF007F&ring=%23FF007F" />
 
 <br/><br/>
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff2e97&icon_color=ff2e97&text_color=f5c2e7" />
+<!-- GitHub Stats - Customized to match pink theme -->
+<img src="https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&theme=tokyonight&hide_border=true&icon_color=%23FF007F&text_color=%23FF007F&title_color=%23FF007F" />
 
-<br/><br/>
+</div>
 <!-- Contribution Graph (BLUE and stable) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SPRandhawa&theme=react-dark" />
 
