@@ -233,15 +233,15 @@ Passion     : Turning Threats into Insights
 
 | 📁 Repository | 💻 Language | ⭐ Stars | 🍴 Forks | 📅 Last Updated |
 |---|---|---|---|---|
-| [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa) | N/A | 1 | 0 | 2026-06-03 |
-| [SPRandhawa.github.io](https://github.com/SPRandhawa/SPRandhawa.github.io) | HTML | 1 | 0 | 2026-06-03 |
-| [skycast](https://github.com/SPRandhawa/skycast) | HTML | 1 | 0 | 2026-06-03 |
-| [auracalendar](https://github.com/SPRandhawa/auracalendar) | HTML | 1 | 0 | 2026-04-13 |
-| [cybersecurity-projects](https://github.com/SPRandhawa/cybersecurity-projects) | N/A | 1 | 0 | 2026-02-01 |
-| [web-dev-projects](https://github.com/SPRandhawa/web-dev-projects) | CSS | 1 | 0 | 2025-12-01 |
-| [java-codes-and-projects](https://github.com/SPRandhawa/java-codes-and-projects) | Java | 1 | 0 | 2025-11-09 |
-| [data-analytics-projects](https://github.com/SPRandhawa/data-analytics-projects) | N/A | 1 | 0 | 2025-11-09 |
-| [visitior-tracker](https://github.com/SPRandhawa/visitior-tracker) | Python | 0 | 0 | 2026-06-03 |
+| [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa) | N/A | 1 | 0 | 2026--06--03 |
+| [SPRandhawa.github.io](https://github.com/SPRandhawa/SPRandhawa.github.io) | HTML | 1 | 0 | 2026--06--03 |
+| [skycast](https://github.com/SPRandhawa/skycast) | HTML | 1 | 0 | 2026--06--03 |
+| [auracalendar](https://github.com/SPRandhawa/auracalendar) | HTML | 1 | 0 | 2026--04--13 |
+| [cybersecurity-projects](https://github.com/SPRandhawa/cybersecurity-projects) | N/A | 1 | 0 | 2026--02--01 |
+| [web-dev-projects](https://github.com/SPRandhawa/web-dev-projects) | CSS | 1 | 0 | 2025--12--01 |
+| [java-codes-and-projects](https://github.com/SPRandhawa/java-codes-and-projects) | Java | 1 | 0 | 2025--11--09 |
+| [data-analytics-projects](https://github.com/SPRandhawa/data-analytics-projects) | N/A | 1 | 0 | 2025--11--09 |
+| [visitior-tracker](https://github.com/SPRandhawa/visitior-tracker) | Python | 0 | 0 | 2026--06--03 |
 
 </div>
 <!-- REPOS-SECTION-END -->
