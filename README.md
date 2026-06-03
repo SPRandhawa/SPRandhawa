@@ -260,32 +260,19 @@ Passion     : Turning Threats into Insights
 <!-- ADVANCED GITHUB STATS -->
 <h2 align="center">🔥 Advanced GitHub Stats</h2>
 
----
-
-<!-- ADVANCED GITHUB STATS -->
-<h2 align="center">🔥 Advanced GitHub Stats</h2>
-
----
-
-<!-- ADVANCED GITHUB STATS -->
-<h2 align="center">🔥 Advanced GitHub Stats</h2>
-
 <div align="center">
 
-<!-- GitHub Streak Stats - Customized to match pink theme -->
-<img src="https://streak-stats.demolab.com?user=SPRandhawa&theme=tokyonight&hide_border=true&border_radius=10&stroke=%23FF007F&fire=%23FF007F&ring=%23FF007F" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SPRandhawa&theme=highcontrast&hide_border=true&background=0d1117&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff&sideLabels=a0e9ff&currStreakNum=ff6b6b&sideNums=00b4d8&dates=a0e9ff" alt="GitHub Streak Stats" />
 
-<br/><br/>
+  <br/><br/>
 
-<!-- GitHub Stats - Customized to match pink theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&theme=tokyonight&hide_border=true&icon_color=%23FF007F&text_color=%23FF007F&title_color=%23FF007F" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&theme=highcontrast&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00b4d8&text_color=a0e9ff&border_radius=10" alt="GitHub Stats" />
 
-</div>
-<!-- Contribution Graph (BLUE and stable) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SPRandhawa&theme=react-dark" />
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SPRandhawa&bg_color=0d1117&color=00f5ff&line=00b4d8&point=ff6b6b&area=true&hide_border=true" alt="SPRandhawa's Contribution Graph" />
 
 </div>
 
 <br/>
 
----
