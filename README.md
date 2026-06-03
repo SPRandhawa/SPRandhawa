@@ -169,14 +169,14 @@ Passion     : Turning Threats into Insights
 ## 📦 Public Repositories
 
 ### [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa)
-> No description
+> ⚡ Turning Threats into Insights — CSDA Expert in the making 🔐📊🤖
 
 ![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-N/A-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-06-03-2ecc71?style=flat-square)
 
 ---
 
 ### [skycast](https://github.com/SPRandhawa/skycast)
-> No description
+> 🌤️ SkyCast — A clean & beautiful weather app for real-time sky updates
 
 ![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-HTML-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-04-13-2ecc71?style=flat-square)
 
@@ -190,7 +190,7 @@ Passion     : Turning Threats into Insights
 ---
 
 ### [SPRandhawa.github.io](https://github.com/SPRandhawa/SPRandhawa.github.io)
-> No description
+> 🎵 Randhawa27 — Official music website | Explore all YouTube tracks in one place 🎧✨
 
 ![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-HTML-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-03-13-2ecc71?style=flat-square)
 
@@ -225,7 +225,7 @@ Passion     : Turning Threats into Insights
 ---
 
 ### [visitior-tracker](https://github.com/SPRandhawa/visitior-tracker)
-> No description
+> 🌍 Visitor Intelligence — Real-time GitHub profile visitor tracker with country detection 📊
 
 ![Stars](https://img.shields.io/badge/Stars-0-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-Python-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-04-14-2ecc71?style=flat-square)
 
