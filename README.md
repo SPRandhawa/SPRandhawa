@@ -255,29 +255,30 @@ Passion     : Turning Threats into Insights
   <img src="https://visitor-tracker-wlgv.onrender.com/track.png" />
 </div>
 ---
-
-
+---
 
 <!-- ADVANCED GITHUB STATS -->
 <h2 align="center">🔥 Advanced GitHub Stats</h2>
 
 <div align="center">
 
-<!-- Streak (Neon Pink Theme) -->
-<img src="https://streak-stats.demolab.com?user=SPRandhawa&theme=radical&hide_border=true&border_radius=10" />
+<!-- Streak (subtle, not too pink) -->
+<img src="https://streak-stats.demolab.com?user=SPRandhawa&theme=tokyonight&hide_border=true&border_radius=10" />
 
 <br/><br/>
 
-<!-- GitHub Stats (Pink/Purple Cyber Theme) -->
-<img src="https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&theme=radical&hide_border=true&title_color=ff2e97&icon_color=ff2e97&text_color=f8d847" />
+<!-- GitHub Stats (balanced colors) -->
+<img src="https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<!-- Contribution Graph (Neon Style) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SPRandhawa&theme=react-dark&bg_color=0d1117&color=ff2e97&line=ff2e97&point=ffffff&hide_border=true" />
+<!-- Contribution Graph (THIS is the important blue one) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SPRandhawa&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&hide_border=true" />
 
 </div>
 
 <br/>
 
 ---
+
+
