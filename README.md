@@ -168,6 +168,13 @@ Passion     : Turning Threats into Insights
 
 ## 📦 Public Repositories
 
+### [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa)
+> ⚡ Turning Threats into Insights — CSDA Expert in the making 🔐📊🤖
+
+![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-N/A-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-06-06-2ecc71?style=flat-square)
+
+---
+
 ### [password-strength-checker](https://github.com/SPRandhawa/password-strength-checker)
 > A lightweight JavaScript package to check password strength using basic security rules.
 
@@ -186,13 +193,6 @@ Passion     : Turning Threats into Insights
 > Scientific Calculator using HTML, CSS, JS
 
 ![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-HTML-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-06-06-2ecc71?style=flat-square)
-
----
-
-### [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa)
-> ⚡ Turning Threats into Insights — CSDA Expert in the making 🔐📊🤖
-
-![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-N/A-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-06-06-2ecc71?style=flat-square)
 
 ---
 
@@ -247,10 +247,10 @@ Passion     : Turning Threats into Insights
 
 | 📁 Repository | 💻 Language | ⭐ Stars | 🍴 Forks | 📅 Last Updated |
 |---|---|---|---|---|
+| [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa) | N/A | 1 | 0 | 2026-06-06 |
 | [password-strength-checker](https://github.com/SPRandhawa/password-strength-checker) | JavaScript | 1 | 0 | 2026-06-06 |
 | [visitior-tracker](https://github.com/SPRandhawa/visitior-tracker) | Python | 1 | 0 | 2026-06-06 |
 | [SciCalcX](https://github.com/SPRandhawa/SciCalcX) | HTML | 1 | 0 | 2026-06-06 |
-| [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa) | N/A | 1 | 0 | 2026-06-06 |
 | [web-dev-projects](https://github.com/SPRandhawa/web-dev-projects) | JavaScript | 1 | 0 | 2026-06-04 |
 | [SPRandhawa.github.io](https://github.com/SPRandhawa/SPRandhawa.github.io) | HTML | 1 | 0 | 2026-06-03 |
 | [skycast](https://github.com/SPRandhawa/skycast) | HTML | 1 | 0 | 2026-06-03 |
