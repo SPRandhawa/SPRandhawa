@@ -224,6 +224,20 @@ Passion     : Turning Threats into Insights
 
 ---
 
+### [password-strength-checker](https://github.com/SPRandhawa/password-strength-checker)
+> A lightweight JavaScript package to check password strength using basic security rules.
+
+![Stars](https://img.shields.io/badge/Stars-0-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-JavaScript-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-06-06-2ecc71?style=flat-square)
+
+---
+
+### [SciCalcX](https://github.com/SPRandhawa/SciCalcX)
+> Scientific Calculator using HTML, CSS, JS
+
+![Stars](https://img.shields.io/badge/Stars-0-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-HTML-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-06-06-2ecc71?style=flat-square)
+
+---
+
 ### [visitior-tracker](https://github.com/SPRandhawa/visitior-tracker)
 > 🌍 Visitor Intelligence — Real-time GitHub profile visitor tracker with country detection 📊
 
@@ -241,6 +255,8 @@ Passion     : Turning Threats into Insights
 | [cybersecurity-projects](https://github.com/SPRandhawa/cybersecurity-projects) | N/A | 1 | 0 | 2026-02-01 |
 | [java-codes-and-projects](https://github.com/SPRandhawa/java-codes-and-projects) | Java | 1 | 0 | 2025-11-09 |
 | [data-analytics-projects](https://github.com/SPRandhawa/data-analytics-projects) | N/A | 1 | 0 | 2025-11-09 |
+| [password-strength-checker](https://github.com/SPRandhawa/password-strength-checker) | JavaScript | 0 | 0 | 2026-06-06 |
+| [SciCalcX](https://github.com/SPRandhawa/SciCalcX) | HTML | 0 | 0 | 2026-06-06 |
 | [visitior-tracker](https://github.com/SPRandhawa/visitior-tracker) | Python | 0 | 0 | 2026-06-03 |
 
 </div>
