@@ -181,7 +181,46 @@ Passion     : Turning Threats into Insights
 ![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-JavaScript-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-06-06-2ecc71?style=flat-square)
 
 ---
+<h2 align="center">📦 Software Distribution Center</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🚀 GitHub Releases</h3>
+        <p><i>Production-ready standalone binaries</i></p>
+        <a href="https://github.com/SPRandhawa/SciCalcX/releases">
+          <img src="https://img.shields.io/github/v/release/SPRandhawa/SciCalcX?color=2563eb&label=Latest%20Release&logo=github&style=flat-square" alt="Latest Calculator Release" />
+        </a>
+        <br/><br/>
+        <p style="font-size: 13px; text-align: left; padding: 5px 10px;">
+          • <b>Stable Build:</b> Desktop Scientific Calculator App<br/>
+          • <b>Artifact Format:</b> Pre-compiled single-file executable<br/>
+          • <b>Update Cycle:</b> Auto-synced on matching git tags (<code>v*.*.*</code>)
+        </p>
+      </td>
+      <td align="center" width="50%">
+        <h3>📦 GitHub Packages</h3>
+        <p><i>Developer-ready modular dependencies</i></p>
+        <a href="https://github.com/SPRandhawa/password-strength-checker/pkgs/npm/password-strength-checker">
+          <img src="https://img.shields.io/npm/v/@sprandhawa/password-strength-checker?color=9333ea&label=GitHub%20Registry&logo=npm&style=flat-square" alt="Latest Package Version" />
+        </a>
+        <br/><br/>
+        <p style="font-size: 13px; text-align: left; padding: 5px 10px;">
+          • <b>Module:</b> SecureScan Password Checker<br/>
+          • <b>Installation:</b> <code>npm install @sprandhawa/password-strength-checker</code><br/>
+          • <b>Update Cycle:</b> Synchronized instantly via terminal <code>npm publish</code>
+        </p>
+      </td>
+    </tr>
+  </table>
+  <p style="margin-top: 15px; font-size: 13px; color: #a0e9ff;">
+    <i>Release binaries and registry configurations are auto-fetched and rendered using absolute semver tags.</i>
+  </p>
+</div>
 
+<br/>
+
+---
 ### [visitior-tracker](https://github.com/SPRandhawa/visitior-tracker)
 > 🌍 Visitor Intelligence — Real-time GitHub profile visitor tracker with country detection 📊
 
