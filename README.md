@@ -171,7 +171,7 @@ Passion     : Turning Threats into Insights
 ### [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa)
 > ⚡ Turning Threats into Insights — CSDA Expert in the making 🔐📊🤖
 
-![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-N/A-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-06-30-2ecc71?style=flat-square)
+![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-N/A-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-07-08-2ecc71?style=flat-square)
 
 ---
 
@@ -254,7 +254,7 @@ Passion     : Turning Threats into Insights
 
 | 📁 Repository | 💻 Language | ⭐ Stars | 🍴 Forks | 📅 Last Updated |
 |---|---|---|---|---|
-| [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa) | N/A | 1 | 0 | 2026-06-30 |
+| [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa) | N/A | 1 | 0 | 2026-07-08 |
 | [auracalendar](https://github.com/SPRandhawa/auracalendar) | HTML | 1 | 0 | 2026-06-30 |
 | [SPRandhawa.github.io](https://github.com/SPRandhawa/SPRandhawa.github.io) | HTML | 1 | 0 | 2026-06-14 |
 | [password-strength-checker](https://github.com/SPRandhawa/password-strength-checker) | JavaScript | 1 | 0 | 2026-06-06 |
