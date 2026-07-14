@@ -168,6 +168,13 @@ Passion     : Turning Threats into Insights
 
 ## 📦 Public Repositories
 
+### [web-dev-projects](https://github.com/SPRandhawa/web-dev-projects)
+> A collection of front-end and full-stack web development projects using HTML, CSS, JavaScript, and modern frameworks.
+
+![Stars](https://img.shields.io/badge/Stars-2-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-JavaScript-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-07-14-2ecc71?style=flat-square)
+
+---
+
 ### [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa)
 > ⚡ Turning Threats into Insights — CSDA Expert in the making 🔐📊🤖
 
@@ -210,13 +217,6 @@ Passion     : Turning Threats into Insights
 
 ---
 
-### [web-dev-projects](https://github.com/SPRandhawa/web-dev-projects)
-> A collection of front-end and full-stack web development projects using HTML, CSS, JavaScript, and modern frameworks.
-
-![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-JavaScript-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-06-04-2ecc71?style=flat-square)
-
----
-
 ### [skycast](https://github.com/SPRandhawa/skycast)
 > 🌤️ SkyCast — A clean & beautiful weather app for real-time sky updates
 
@@ -254,13 +254,13 @@ Passion     : Turning Threats into Insights
 
 | 📁 Repository | 💻 Language | ⭐ Stars | 🍴 Forks | 📅 Last Updated |
 |---|---|---|---|---|
+| [web-dev-projects](https://github.com/SPRandhawa/web-dev-projects) | JavaScript | 2 | 0 | 2026-07-14 |
 | [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa) | N/A | 1 | 0 | 2026-07-08 |
 | [auracalendar](https://github.com/SPRandhawa/auracalendar) | HTML | 1 | 0 | 2026-06-30 |
 | [SPRandhawa.github.io](https://github.com/SPRandhawa/SPRandhawa.github.io) | HTML | 1 | 0 | 2026-06-14 |
 | [password-strength-checker](https://github.com/SPRandhawa/password-strength-checker) | JavaScript | 1 | 0 | 2026-06-06 |
 | [visitior-tracker](https://github.com/SPRandhawa/visitior-tracker) | Python | 1 | 0 | 2026-06-06 |
 | [SciCalcX](https://github.com/SPRandhawa/SciCalcX) | HTML | 1 | 0 | 2026-06-06 |
-| [web-dev-projects](https://github.com/SPRandhawa/web-dev-projects) | JavaScript | 1 | 0 | 2026-06-04 |
 | [skycast](https://github.com/SPRandhawa/skycast) | HTML | 1 | 0 | 2026-06-03 |
 | [cybersecurity-projects](https://github.com/SPRandhawa/cybersecurity-projects) | N/A | 1 | 0 | 2026-02-01 |
 | [java-codes-and-projects](https://github.com/SPRandhawa/java-codes-and-projects) | Java | 1 | 0 | 2025-11-09 |
