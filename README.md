@@ -245,6 +245,13 @@ Passion     : Turning Threats into Insights
 
 ---
 
+### [SmartAnalytics](https://github.com/SPRandhawa/SmartAnalytics)
+> SmartAnalytics is a Django-based data analytics platform that enables data visualization, insights generation, and interactive dashboards with admin-driven management.
+
+![Stars](https://img.shields.io/badge/Stars-0-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-N/A-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-07-16-2ecc71?style=flat-square)
+
+---
+
 ### [gaming-hub](https://github.com/SPRandhawa/gaming-hub)
 > A multi-language gaming repository featuring interactive games built using for learning and practice.
 
@@ -265,6 +272,7 @@ Passion     : Turning Threats into Insights
 | [cybersecurity-projects](https://github.com/SPRandhawa/cybersecurity-projects) | N/A | 1 | 0 | 2026-02-01 |
 | [java-codes-and-projects](https://github.com/SPRandhawa/java-codes-and-projects) | Java | 1 | 0 | 2025-11-09 |
 | [data-analytics-projects](https://github.com/SPRandhawa/data-analytics-projects) | N/A | 1 | 0 | 2025-11-09 |
+| [SmartAnalytics](https://github.com/SPRandhawa/SmartAnalytics) | N/A | 0 | 0 | 2026-07-16 |
 | [gaming-hub](https://github.com/SPRandhawa/gaming-hub) | HTML | 0 | 0 | 2026-07-08 |
 
 </div>
