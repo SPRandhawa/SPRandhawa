@@ -319,20 +319,29 @@ Passion     : Turning Threats into Insights
 <br/>
 
 ---
----
-
 ## 📬 Contact Me
 
-Feel free to connect with me for collaborations, projects, or discussions on tech 🚀
+<p align="center">
+  <a href="https://github.com/SPRandhawa " target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  </a>
 
-* 💻 **GitHub:** https://github.com/SPRandhawa/SPRandhawa
-* 🔗 **LinkedIn:** https://www.linkedin.com/in/s-p-r-b3671b41a/
-* 🌐 **Portfolio:** https://your-portfolio-link.com
+  <a href="https://www.linkedin.com/in/s-p-r-b3671b41a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+  </a>
 
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/100/ffffff/domain.png" alt="Portfolio" width="50" height="50"/>
+  </a>
+</p>
+
+---
 
 ⭐ I'm always open to opportunities in **Cybersecurity, Data Science, and Applied AI**
 
 ---
+
+   
 <!-- VISITOR TRACKER -->
 <h2 align="center">🌍 Visitor Intelligence</h2>
 
