@@ -319,7 +319,7 @@ Passion     : Turning Threats into Insights
 <br/>
 
 ---
-<div align="center">## 🧠 Languages & Technologies</div>
+<h2 align="center">🧠 Languages & Technologies</h2>
 
 <p align="center">
   <!-- Row 1 -->
@@ -334,7 +334,7 @@ Passion     : Turning Threats into Insights
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<br><br>
+<br>
 
   <!-- Row 2 -->
 
@@ -346,7 +346,7 @@ Passion     : Turning Threats into Insights
 
 
 ---
-<div align="center">## 📬 Contact Me</div>
+<h2 align="center"> 📬 Contact Me</h2>
 
 <p align="center">
   <a href="https://github.com/SPRandhawa " target="_blank">
