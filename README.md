@@ -323,7 +323,8 @@ Passion     : Turning Threats into Insights
 
 <p align="center">
   <a href="https://github.com/SPRandhawa " target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+     alt="GitHub" width="50" height="50" style="filter: invert(1);"/>
   </a>
 
   <a href="https://www.linkedin.com/in/s-p-r-b3671b41a/" target="_blank">
