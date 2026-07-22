@@ -328,6 +328,25 @@ Passion     : Turning Threats into Insights
   <br/><br/>
 ---
 
+## 📬 Contact Me
+
+Feel free to connect with me for collaborations, projects, or discussions on tech 🚀
+
+* 💻 **GitHub:** https://github.com/SPRandhawa/SPRandhawa
+* 🔗 **LinkedIn:** https://www.linkedin.com/in/s-p-r-b3671b41a/
+* 🌐 **Portfolio:** https://your-portfolio-link.com
+
+---
+
+⭐ I'm always open to opportunities in **Cybersecurity, Data Science, and Applied AI**
+
+
+---
+
+⭐ I'm always open to opportunities in **Cybersecurity, Data Science, and Applied AI**
+
+
+---
 <!-- ADVANCED GITHUB STATS -->
 <h2 align="center">🔥 Advanced GitHub Stats</h2>
 
