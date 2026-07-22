@@ -319,13 +319,6 @@ Passion     : Turning Threats into Insights
 <br/>
 
 ---
-<!-- VISITOR TRACKER -->
-<h2 align="center">🌍 Visitor Intelligence</h2>
-
-<div align="center">
-  <img src="https://visitor-tracker-wlgv.onrender.com/track.png" />
-</div>
-  <br/><br/>
 ---
 
 ## 📬 Contact Me
@@ -336,14 +329,21 @@ Feel free to connect with me for collaborations, projects, or discussions on tec
 * 🔗 **LinkedIn:** https://www.linkedin.com/in/s-p-r-b3671b41a/
 * 🌐 **Portfolio:** https://your-portfolio-link.com
 
----
 
 ⭐ I'm always open to opportunities in **Cybersecurity, Data Science, and Applied AI**
 
-
 ---
+<!-- VISITOR TRACKER -->
+<h2 align="center">🌍 Visitor Intelligence</h2>
 
-⭐ I'm always open to opportunities in **Cybersecurity, Data Science, and Applied AI**
+<div align="center">
+  <img src="https://visitor-tracker-wlgv.onrender.com/track.png" />
+</div>
+  <br/><br/>
+
+
+
+
 
 
 ---
