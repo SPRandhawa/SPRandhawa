@@ -356,7 +356,7 @@ Passion     : Turning Threats into Insights
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
 
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://portfolio-324dbf.gitlab.io/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/100/ffffff/domain.png" alt="Portfolio" width="50" height="50"/>
   </a>
 </p>
