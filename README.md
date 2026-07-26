@@ -248,7 +248,7 @@ Passion     : Turning Threats into Insights
 ### [gaming-hub](https://github.com/SPRandhawa/gaming-hub)
 > A multi-language gaming repository featuring interactive games built using for learning and practice.
 
-![Stars](https://img.shields.io/badge/Stars-0-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-HTML-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-07-24-2ecc71?style=flat-square)
+![Stars](https://img.shields.io/badge/Stars-0-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-HTML-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-07-26-2ecc71?style=flat-square)
 
 ---
 
@@ -272,7 +272,7 @@ Passion     : Turning Threats into Insights
 | [cybersecurity-projects](https://github.com/SPRandhawa/cybersecurity-projects) | N/A | 1 | 0 | 2026-02-01 |
 | [java-codes-and-projects](https://github.com/SPRandhawa/java-codes-and-projects) | Java | 1 | 0 | 2025-11-09 |
 | [data-analytics-projects](https://github.com/SPRandhawa/data-analytics-projects) | N/A | 1 | 0 | 2025-11-09 |
-| [gaming-hub](https://github.com/SPRandhawa/gaming-hub) | HTML | 0 | 0 | 2026-07-24 |
+| [gaming-hub](https://github.com/SPRandhawa/gaming-hub) | HTML | 0 | 0 | 2026-07-26 |
 | [SmartAnalytics](https://github.com/SPRandhawa/SmartAnalytics) | HTML | 0 | 0 | 2026-07-21 |
 
 </div>
