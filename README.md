@@ -175,6 +175,20 @@ Passion     : Turning Threats into Insights
 
 ---
 
+### [gaming-hub](https://github.com/SPRandhawa/gaming-hub)
+> A multi-language gaming repository featuring interactive games built using for learning and practice.
+
+![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-HTML-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-07-31-2ecc71?style=flat-square)
+
+---
+
+### [SmartAnalytics](https://github.com/SPRandhawa/SmartAnalytics)
+> SmartAnalytics is a Django-based data analytics platform that enables data visualization, insights generation, and interactive dashboards with admin-driven management.
+
+![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-HTML-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-07-31-2ecc71?style=flat-square)
+
+---
+
 ### [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa)
 > ⚡ Turning Threats into Insights — CSDA Expert in the making 🔐📊🤖
 
@@ -245,23 +259,18 @@ Passion     : Turning Threats into Insights
 
 ---
 
-### [gaming-hub](https://github.com/SPRandhawa/gaming-hub)
-> A multi-language gaming repository featuring interactive games built using for learning and practice.
+### [foodrecipe](https://github.com/SPRandhawa/foodrecipe)
+> 🍽️ A modern and responsive recipe website built with HTML, CSS, and JavaScript for exploring delicious dishes with ease.
 
-![Stars](https://img.shields.io/badge/Stars-0-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-HTML-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-07-26-2ecc71?style=flat-square)
-
----
-
-### [SmartAnalytics](https://github.com/SPRandhawa/SmartAnalytics)
-> SmartAnalytics is a Django-based data analytics platform that enables data visualization, insights generation, and interactive dashboards with admin-driven management.
-
-![Stars](https://img.shields.io/badge/Stars-0-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-HTML-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-07-21-2ecc71?style=flat-square)
+![Stars](https://img.shields.io/badge/Stars-0-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-N/A-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-07-31-2ecc71?style=flat-square)
 
 ---
 
 | 📁 Repository | 💻 Language | ⭐ Stars | 🍴 Forks | 📅 Last Updated |
 |---|---|---|---|---|
 | [web-dev-projects](https://github.com/SPRandhawa/web-dev-projects) | HTML | 2 | 0 | 2026-07-31 |
+| [gaming-hub](https://github.com/SPRandhawa/gaming-hub) | HTML | 1 | 0 | 2026-07-31 |
+| [SmartAnalytics](https://github.com/SPRandhawa/SmartAnalytics) | HTML | 1 | 0 | 2026-07-31 |
 | [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa) | N/A | 1 | 0 | 2026-07-31 |
 | [skycast](https://github.com/SPRandhawa/skycast) | HTML | 1 | 0 | 2026-07-24 |
 | [auracalendar](https://github.com/SPRandhawa/auracalendar) | HTML | 1 | 0 | 2026-06-30 |
@@ -272,8 +281,7 @@ Passion     : Turning Threats into Insights
 | [cybersecurity-projects](https://github.com/SPRandhawa/cybersecurity-projects) | N/A | 1 | 0 | 2026-02-01 |
 | [java-codes-and-projects](https://github.com/SPRandhawa/java-codes-and-projects) | Java | 1 | 0 | 2025-11-09 |
 | [data-analytics-projects](https://github.com/SPRandhawa/data-analytics-projects) | N/A | 1 | 0 | 2025-11-09 |
-| [gaming-hub](https://github.com/SPRandhawa/gaming-hub) | HTML | 0 | 0 | 2026-07-26 |
-| [SmartAnalytics](https://github.com/SPRandhawa/SmartAnalytics) | HTML | 0 | 0 | 2026-07-21 |
+| [foodrecipe](https://github.com/SPRandhawa/foodrecipe) | N/A | 0 | 0 | 2026-07-31 |
 
 </div>
 <!-- REPOS-SECTION-END -->
