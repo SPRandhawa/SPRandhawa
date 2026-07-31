@@ -171,7 +171,7 @@ Passion     : Turning Threats into Insights
 ### [web-dev-projects](https://github.com/SPRandhawa/web-dev-projects)
 > A collection of front-end and full-stack web development projects using HTML, CSS, JavaScript, and modern frameworks.
 
-![Stars](https://img.shields.io/badge/Stars-2-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-HTML-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-07-29-2ecc71?style=flat-square)
+![Stars](https://img.shields.io/badge/Stars-2-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-HTML-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-07-31-2ecc71?style=flat-square)
 
 ---
 
@@ -261,7 +261,7 @@ Passion     : Turning Threats into Insights
 
 | 📁 Repository | 💻 Language | ⭐ Stars | 🍴 Forks | 📅 Last Updated |
 |---|---|---|---|---|
-| [web-dev-projects](https://github.com/SPRandhawa/web-dev-projects) | HTML | 2 | 0 | 2026-07-29 |
+| [web-dev-projects](https://github.com/SPRandhawa/web-dev-projects) | HTML | 2 | 0 | 2026-07-31 |
 | [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa) | N/A | 1 | 0 | 2026-07-29 |
 | [skycast](https://github.com/SPRandhawa/skycast) | HTML | 1 | 0 | 2026-07-24 |
 | [auracalendar](https://github.com/SPRandhawa/auracalendar) | HTML | 1 | 0 | 2026-06-30 |
