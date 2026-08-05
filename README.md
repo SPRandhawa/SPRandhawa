@@ -393,12 +393,10 @@ Passion     : Turning Threats into Insights
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SPRandhawa&theme=highcontrast&hide_border=true&background=0d1117&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff&sideLabels=a0e9ff&currStreakNum=ff6b6b&sideNums=00b4d8&dates=a0e9ff" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=SPRandhawa&theme=highcontrast&hide_border=true&background=0d1117&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff&sideLabels=a0e9ff&currStreakNum=ff6b6b&sideNums=00b4d8&dates=a0e9ff" />
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SPRandhawa&bg_color=0d1117&color=00f5ff&line=00b4d8&point=ff6b6b&area=true&hide_border=true" alt="SPRandhawa's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SPRandhawa&bg_color=0d1117&color=00f5ff&line=00b4d8&point=ff6b6b&area=true&hide_border=true" />
 
-</div>
-
-<br/>
+</div><br>
