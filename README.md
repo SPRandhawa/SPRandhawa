@@ -262,7 +262,7 @@ Passion     : Turning Threats into Insights
 ### [foodrecipe](https://github.com/SPRandhawa/foodrecipe)
 > 🍽️ A modern and responsive recipe website built with HTML, CSS, and JavaScript for exploring delicious dishes with ease.
 
-![Stars](https://img.shields.io/badge/Stars-0-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-JavaScript-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-08-06-2ecc71?style=flat-square)
+![Stars](https://img.shields.io/badge/Stars-0-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-JavaScript-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-08-07-2ecc71?style=flat-square)
 
 ---
 
@@ -281,7 +281,7 @@ Passion     : Turning Threats into Insights
 | [cybersecurity-projects](https://github.com/SPRandhawa/cybersecurity-projects) | N/A | 1 | 0 | 2026-02-01 |
 | [java-codes-and-projects](https://github.com/SPRandhawa/java-codes-and-projects) | Java | 1 | 0 | 2025-11-09 |
 | [data-analytics-projects](https://github.com/SPRandhawa/data-analytics-projects) | N/A | 1 | 0 | 2025-11-09 |
-| [foodrecipe](https://github.com/SPRandhawa/foodrecipe) | JavaScript | 0 | 0 | 2026-08-06 |
+| [foodrecipe](https://github.com/SPRandhawa/foodrecipe) | JavaScript | 0 | 0 | 2026-08-07 |
 
 </div>
 <!-- REPOS-SECTION-END -->
