@@ -182,10 +182,17 @@ Passion     : Turning Threats into Insights
 
 ---
 
+### [java-codes-and-projects](https://github.com/SPRandhawa/java-codes-and-projects)
+> A collection of Java programs, code snippets, DSA solutions, and projects covering core concepts, problem solving, and hands-on development.
+
+![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-Java-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-08-09-2ecc71?style=flat-square)
+
+---
+
 ### [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa)
 > ⚡ Turning Threats into Insights — CSDA Expert in the making 🔐📊🤖
 
-![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-N/A-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-08-07-2ecc71?style=flat-square)
+![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-N/A-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-08-09-2ecc71?style=flat-square)
 
 ---
 
@@ -245,17 +252,17 @@ Passion     : Turning Threats into Insights
 
 ---
 
-### [java-codes-and-projects](https://github.com/SPRandhawa/java-codes-and-projects)
-> A collection of Java programs, code snippets, DSA solutions, and projects covering core concepts, problem solving, and hands-on development.
-
-![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-Java-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2025-11-09-2ecc71?style=flat-square)
-
----
-
 ### [data-analytics-projects](https://github.com/SPRandhawa/data-analytics-projects)
 > A collection of data analytics projects focused on exploring, cleaning, and visualizing real-world dataset
 
 ![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-N/A-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2025-11-09-2ecc71?style=flat-square)
+
+---
+
+### [expense-tracker](https://github.com/SPRandhawa/expense-tracker)
+> A full-stack Expense Tracker web application built with Spring Boot, Thymeleaf, and H2 Database. Allows users to manage expenses with authentication, category tracking, and real-time total calculation.
+
+![Stars](https://img.shields.io/badge/Stars-0-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-Java-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-08-09-2ecc71?style=flat-square)
 
 ---
 
@@ -270,7 +277,8 @@ Passion     : Turning Threats into Insights
 |---|---|---|---|---|
 | [web-dev-projects](https://github.com/SPRandhawa/web-dev-projects) | HTML | 2 | 0 | 2026-08-01 |
 | [SmartAnalytics](https://github.com/SPRandhawa/SmartAnalytics) | HTML | 2 | 0 | 2026-08-01 |
-| [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa) | N/A | 1 | 0 | 2026-08-07 |
+| [java-codes-and-projects](https://github.com/SPRandhawa/java-codes-and-projects) | Java | 1 | 0 | 2026-08-09 |
+| [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa) | N/A | 1 | 0 | 2026-08-09 |
 | [auracalendar](https://github.com/SPRandhawa/auracalendar) | HTML | 1 | 0 | 2026-08-01 |
 | [skycast](https://github.com/SPRandhawa/skycast) | HTML | 1 | 0 | 2026-08-01 |
 | [SPRandhawa.github.io](https://github.com/SPRandhawa/SPRandhawa.github.io) | HTML | 1 | 0 | 2026-08-01 |
@@ -279,8 +287,8 @@ Passion     : Turning Threats into Insights
 | [visitior-tracker](https://github.com/SPRandhawa/visitior-tracker) | Python | 1 | 0 | 2026-06-06 |
 | [SciCalcX](https://github.com/SPRandhawa/SciCalcX) | HTML | 1 | 0 | 2026-06-06 |
 | [cybersecurity-projects](https://github.com/SPRandhawa/cybersecurity-projects) | N/A | 1 | 0 | 2026-02-01 |
-| [java-codes-and-projects](https://github.com/SPRandhawa/java-codes-and-projects) | Java | 1 | 0 | 2025-11-09 |
 | [data-analytics-projects](https://github.com/SPRandhawa/data-analytics-projects) | N/A | 1 | 0 | 2025-11-09 |
+| [expense-tracker](https://github.com/SPRandhawa/expense-tracker) | Java | 0 | 0 | 2026-08-09 |
 | [foodrecipe](https://github.com/SPRandhawa/foodrecipe) | JavaScript | 0 | 0 | 2026-08-09 |
 
 </div>
