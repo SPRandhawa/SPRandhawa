@@ -408,7 +408,7 @@ Passion     : Turning Threats into Insights
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=SPRandhawa&theme=highcontrast&hide_border=true&background=0d1117&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff&sideLabels=a0e9ff&currStreakNum=ff6b6b&sideNums=00b4d8&dates=a0e9ff" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=SPRandhawa&theme=highcontrast&hide_border=true&background=0d1117&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff&sideLabels=a0e9ff&currStreakNum=ff6b6b&sideNums=00b4d8&dates=a0e9ff" />
 
   <br/><br/>
 
