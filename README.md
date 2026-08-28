@@ -185,7 +185,7 @@ Passion     : Turning Threats into Insights
 ### [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa)
 > ⚡ Turning Threats into Insights — CSDA Expert in the making 🔐📊🤖
 
-![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-N/A-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-08-26-2ecc71?style=flat-square)
+![Stars](https://img.shields.io/badge/Stars-1-FFD700?style=flat-square&logo=github) ![Forks](https://img.shields.io/badge/Forks-0-00f5ff?style=flat-square&logo=github) ![Language](https://img.shields.io/badge/Language-N/A-6e40c9?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-08-28-2ecc71?style=flat-square)
 
 ---
 
@@ -284,7 +284,7 @@ Passion     : Turning Threats into Insights
 |---|---|---|---|---|
 | [web-dev-projects](https://github.com/SPRandhawa/web-dev-projects) | HTML | 2 | 0 | 2026-08-01 |
 | [SmartAnalytics](https://github.com/SPRandhawa/SmartAnalytics) | HTML | 2 | 0 | 2026-08-01 |
-| [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa) | N/A | 1 | 0 | 2026-08-26 |
+| [SPRandhawa](https://github.com/SPRandhawa/SPRandhawa) | N/A | 1 | 0 | 2026-08-28 |
 | [home-helper-finder](https://github.com/SPRandhawa/home-helper-finder) | HTML | 1 | 0 | 2026-08-26 |
 | [expense-tracker](https://github.com/SPRandhawa/expense-tracker) | Java | 1 | 0 | 2026-08-10 |
 | [java-codes-and-projects](https://github.com/SPRandhawa/java-codes-and-projects) | Java | 1 | 0 | 2026-08-09 |
