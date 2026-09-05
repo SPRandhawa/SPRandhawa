@@ -419,6 +419,6 @@ Passion     : Turning Threats into Insights
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=SPRandhawa&theme=highcontrast&hide_border=true&background=0d1117&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff&sideLabels=a0e9ff&currStreakNum=ff6b6b&sideNums=00b4d8&dates=a0e9ff" />
 
   <br/><br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&theme=tokyonight)
-</div><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&theme=tokyonight" />
+</p>
