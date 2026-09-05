@@ -415,8 +415,8 @@ Passion     : Turning Threats into Insights
 <h2 align="center">🔥 Advanced GitHub Stats</h2>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=SPRandhawa&theme=highcontrast&hide_border=true&background=0d1117&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff&sideLabels=a0e9ff&currStreakNum=ff6b6b&sideNums=00b4d8&dates=a0e9ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SPRandhawa&theme=highcontrast&hide_border=true&background=0d1117&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff&sideLabels=a0e9ff&currStreakNum=ff6b6b&sideNums=00b4d8&dates=a0e9ff" alt="SPRandhawa GitHub Streak Stats" />
+</div>
 
   <br/><br/>
 <h2 align="center">📈 Contribution Activity Graph</h2>
