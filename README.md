@@ -422,5 +422,5 @@ Passion     : Turning Threats into Insights
 <h2 align="center">📈 Contribution Activity Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SPRandhawa&theme=react-dark&bg_color=0d1117&color=00f5ff&line=00b4d8&point=ffffff&area=true&hide_border=true&cache_seconds=86400" alt="SPRandhawa Activity Line Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/SPRandhawa/SPRandhawa/main/my-activity-graph.svg" alt="SPRandhawa Custom Activity Graph" width="100%" />
 </div>
