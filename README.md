@@ -423,7 +423,5 @@ Passion     : Turning Threats into Insights
 <h2 align="center">📈 Contribution Activity Graph</h2>
 
 <div align="center">
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&theme=dark&bg_color=0d1117&title_color=00f5ff&text_color=a0e9ff&icon_color=00b4d8&hide_border=true" alt="SPRandhawa Stats" />
-</div>
+  <img src="https://github-readme-activity-graph.bhagya.dev/graph?username=SPRandhawa&theme=react-dark&bg_color=0d1117&color=00f5ff&line=00b4d8&point=ffffff&area=true&hide_border=true" alt="SPRandhawa Activity Graph" width="100%" />
 </div>
