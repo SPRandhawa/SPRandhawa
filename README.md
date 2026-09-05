@@ -420,6 +420,5 @@ Passion     : Turning Threats into Insights
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SPRandhawa&bg_color=0d1117&color=00f5ff&line=00b4d8&point=ff6b6b&area=true&hide_border=true" />
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPRandhawa&show_icons=true&theme=tokyonight)
 </div><br>
