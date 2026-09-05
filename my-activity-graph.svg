@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+  <defs>
+    <linearGradient id="areaGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00f5ff" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#00f5ff" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="100%" height="100%" rx="10" fill="#0d1117" />
+  
+  <!-- Title -->
+  <text x="30" y="35" fill="#00f5ff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="18" font-weight="bold">Contributions Activity</text>
+
+  <!-- Area Gradient -->
+  <polygon points="60.0,250 60.0,250.0 121.8,233.5 183.6,239.9 245.5,233.5 307.3,108.2 369.1,213.3 430.9,179.1 492.7,250.0 554.5,167.7 616.4,50.0 678.2,132.3 740.0,225.9 740.0,250" fill="url(#areaGrad)" />
+
+  <!-- Connection Line -->
+  <polyline fill="none" stroke="#00b4d8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="60.0,250.0 121.8,233.5 183.6,239.9 245.5,233.5 307.3,108.2 369.1,213.3 430.9,179.1 492.7,250.0 554.5,167.7 616.4,50.0 678.2,132.3 740.0,225.9" />
+
+  <!-- Data Points & Labels -->
+  <circle cx="60.0" cy="250.0" r="4" fill="#ffffff" stroke="#00f5ff" stroke-width="2" />
+  <text x="60.0" y="280" fill="#a0e9ff" font-family="sans-serif" font-size="12" text-anchor="middle">Oct</text>
+  <circle cx="121.8" cy="233.5" r="4" fill="#ffffff" stroke="#00f5ff" stroke-width="2" />
+  <text x="121.8" y="280" fill="#a0e9ff" font-family="sans-serif" font-size="12" text-anchor="middle">Nov</text>
+  <circle cx="183.6" cy="239.9" r="4" fill="#ffffff" stroke="#00f5ff" stroke-width="2" />
+  <text x="183.6" y="280" fill="#a0e9ff" font-family="sans-serif" font-size="12" text-anchor="middle">Dec</text>
+  <circle cx="245.5" cy="233.5" r="4" fill="#ffffff" stroke="#00f5ff" stroke-width="2" />
+  <text x="245.5" y="280" fill="#a0e9ff" font-family="sans-serif" font-size="12" text-anchor="middle">Jan</text>
+  <circle cx="307.3" cy="108.2" r="4" fill="#ffffff" stroke="#00f5ff" stroke-width="2" />
+  <text x="307.3" y="280" fill="#a0e9ff" font-family="sans-serif" font-size="12" text-anchor="middle">Feb</text>
+  <circle cx="369.1" cy="213.3" r="4" fill="#ffffff" stroke="#00f5ff" stroke-width="2" />
+  <text x="369.1" y="280" fill="#a0e9ff" font-family="sans-serif" font-size="12" text-anchor="middle">Mar</text>
+  <circle cx="430.9" cy="179.1" r="4" fill="#ffffff" stroke="#00f5ff" stroke-width="2" />
+  <text x="430.9" y="280" fill="#a0e9ff" font-family="sans-serif" font-size="12" text-anchor="middle">Apr</text>
+  <circle cx="492.7" cy="250.0" r="4" fill="#ffffff" stroke="#00f5ff" stroke-width="2" />
+  <text x="492.7" y="280" fill="#a0e9ff" font-family="sans-serif" font-size="12" text-anchor="middle">May</text>
+  <circle cx="554.5" cy="167.7" r="4" fill="#ffffff" stroke="#00f5ff" stroke-width="2" />
+  <text x="554.5" y="280" fill="#a0e9ff" font-family="sans-serif" font-size="12" text-anchor="middle">Jun</text>
+  <circle cx="616.4" cy="50.0" r="4" fill="#ffffff" stroke="#00f5ff" stroke-width="2" />
+  <text x="616.4" y="280" fill="#a0e9ff" font-family="sans-serif" font-size="12" text-anchor="middle">Jul</text>
+  <circle cx="678.2" cy="132.3" r="4" fill="#ffffff" stroke="#00f5ff" stroke-width="2" />
+  <text x="678.2" y="280" fill="#a0e9ff" font-family="sans-serif" font-size="12" text-anchor="middle">Aug</text>
+  <circle cx="740.0" cy="225.9" r="4" fill="#ffffff" stroke="#00f5ff" stroke-width="2" />
+  <text x="740.0" y="280" fill="#a0e9ff" font-family="sans-serif" font-size="12" text-anchor="middle">Sep</text>
+</svg>
