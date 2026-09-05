@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00b4d8&height=220&section=header&text=Hello%2C%20I%20am%20SPRandhawa%20👋&fontSize=50&fontColor=00f5ff&fontAlignY=40&desc=CSDA%20Expert%20%7C%20Cybersecurity%20%2B%20Data%20Analysis%20%7C%20Applied%20AI&descAlignY=60&descColor=a0e9ff&animation=fadeIn" alt="Header Banner" width="100%"/>
 </div>
-
+ 
 <br/>
 
 
