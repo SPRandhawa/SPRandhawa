@@ -1,0 +1,35 @@
+name: Generate Custom Activity Line Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily
+  workflow_dispatch:     # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate Line Graph SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python generate_graph.py
+
+      - name: Commit and Push SVG
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add my-activity-graph.svg
+          git commit -m "Update custom line graph SVG" || exit 0
+          git push
