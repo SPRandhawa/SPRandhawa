@@ -420,8 +420,8 @@ Passion     : Turning Threats into Insights
 
   <br/><br/>
 
-<h2 align="center">📈 Contribution Activity Graph</h2>
+<h2 align="center">📈 Commit Activity & Streak Line</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SPRandhawa&custom_title=SPRandhawa's%20Contribution%20Graph&theme=react-dark&bg_color=0d1117&color=00f5ff&line=00b4d8&point=ffffff&area=true&hide_border=true" alt="Activity Line Graph" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SPRandhawa&theme=highcontrast&background=0d1117&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff&sideLabels=a0e9ff&hide_border=true" alt="SPRandhawa Commit Streak Graph" />
 </div>
